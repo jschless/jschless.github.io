@@ -13,11 +13,11 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Joe Schlessinger
-  tagline: Thinker.
+  tagline: Thinker. Tinkerer. Not Steven Pinker.
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
@@ -27,7 +27,9 @@ texture:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
-# - about.md
+#  - about.md
+# - resume.html
+
 
 # Build settings
 # theme: texture
