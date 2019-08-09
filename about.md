@@ -1,7 +1,18 @@
 ---
 layout: page
 ---
+# Background
+My name is Joe Schlessinger. I'm an engineer officer in the United States Army. I'm currently assigned as a graduate student at MIT. I am pursuing a Master's Degree in Technology and Policy here, as well as serving as a Lincoln Laboratory Military Fellow.
 
-My name is Joe Schlessinger. I'm an Army Engineer officer currently working as a Lincoln Laboratory Military Fellow and studying for my Master's Degree at MIT.
+# General Interests
+- Reading
+- Math-ing
+- Running (slowly)
+- Chicago sports (White Sox, not Cubs)
+- Honesty (intellectual and otherwise)
+- Luddite screeds
 
-I like to read and code.
+# Research Interests
+- Economics of disruption
+- Military-Private Sector Cooperation
+- Modernization and Innovation
