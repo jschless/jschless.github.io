@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 ---
+My name is Joe Schlessinger. This is my blog. Posts come in a few forms: technical explorations, book thoughts, and general musings.
 
-My name is Joe Schlessinger. I'm an Army Engineer officer currently working as a Lincoln Laboratory Military Fellow and studying for my Master's Degree at MIT.
-
-I like to read and code.
+Here are a few of my recent posts:

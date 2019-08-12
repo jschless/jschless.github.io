@@ -16,3 +16,5 @@ My name is Joe Schlessinger. I'm an engineer officer in the United States Army. 
 - Economics of disruption
 - Military-Private Sector Cooperation
 - Modernization and Innovation
+
+For more information about my background, see my [cv](/assets/cv.pdf).
