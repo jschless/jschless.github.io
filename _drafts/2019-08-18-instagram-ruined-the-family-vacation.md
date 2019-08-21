@@ -28,9 +28,17 @@ I recently travelled to Lisbon, Portugal, a very popular tourist destination. Ev
 
 The point is a normal photo isn't good enough. Everyone takes a normal photo at the statue, and sure it's a beautiful scene, but it's been done before. It's not going to blow anyone's mind. Photos need to get bigger, more extravagant, more unique. This amateur photo shoot fizzled out after about five minutes, but the process is far from over.
 
+Soon after the shoot, the arduous post-processing stage begins. The Instagram influencer runs a photo selection process similar to the holiday card one of ages ago. Post-processing can have one of three results:
 
+1. All photos are rejected, but a reshoot is feasible. Reshoot as soon as possible.
+2. There is a promising photo. Continue processing.
+3. No photo is worthy and a reshoot is infeasible, which invalidates the vacation.
 
+Once there is a promising photo, the influencer then edits it meticulously. They try different filters, consult friends, etc. After significant time and effort, the end result is a photo that is, again, indistinguishable from the original.
 
+But it's not over. Instagram requires a caption. Who can be so bold as to omit a caption? The creative caption generation process then begins. How can you be witty? If not witty, how can you be profound? How do you seem sincere and authentic? How do you convince the world that you elected to stage an exorcism on the dirty floor of a public plaza because you're spunky and artistic and not because you're seeking approval?
+
+Once all is said and done, the post sits in the drafts section of Instagram. The influencer must now wait until a prime-posting hour to share. This is mostly superstitious, as they are unaware of the algorithm Instagram uses to display photos. Still, some times are better than others. Many posts are discarded during the wait for a prime posting time.
 
 
 , the bar for share-worthy photos was significantly lowered. Facebook was simply a translation from physical photo albums to the digital world. The plentitude of photos that comprised the typical photo album drove down the importance of any individual photo on the site. There was little pressure to have Facebook photos that were perfect. Except for one picture: the _profile picture_. 
