@@ -5,30 +5,29 @@ title:  "Modeling Elevator Etiquette: Part 1"
 date:   2019-08-11 21:03:36 +0530
 ---
 # The Problem
-My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators which are called with one button. 
+My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators. Usually, you press a button and one of the elevators comes to pick you up.
 
-One of the elevators broke down, so the building opened the freight elevator up to the residents to increase throughput. The freight elevator has its own button, which works independently of the passenger elevator.
+But one of the elevators broke down! So, there was only one elevator to service a 23-story apartment building. Alas, the management, opened the freight elevator to the residents to increase throughput. The freight elevator has its own button, which works independently of the passenger elevator. In other words, if you press both the regular elevator and the freight elevator button, both elevators will come to get you.
 
-I noticed one day as I was descending that the elevator kept stopping and no one would get in. I realized the people in my building had started pressing both buttons and then getting in the elevator that arrived first.
+I noticed one day as I was descending that the elevator kept stopping for no passengers. I realized the people in my building had started pressing both buttons and then getting in the elevator that arrived first!
 
-That got me thinking. Is that optimal? Are we all worse off because of this?
-
-Here are my research questions:
-1. Are we all worse off if everyone does this behavior?
-2. Is there a threshold for how many people have to do this to make it worse?
-3. Can we solve this problem through simulation and probability (numerical and analytical)?
+This was irritating to me, because I was already running late and it was as if a little kid had pressed every button in the elevator (except it was self-interested adults who did it). That got me thinking. Is this behavior optimal? Pareto optimal? Is the average elevator time slower if everyone pushes both buttons?
 
 My first attempt at solving this is to run a simulation in Python. I've shown pieces of the code below, but the entire Jupyter notebook can be found at my [github](http://www.github.com/jschless/elevatorsim).
 
-# Simplifying Assumptions
+## Simplifying Assumptions
 - Elevator going down picks up people that want to be picked up (regardless of when they push button)
 - If someone gets on at a non lobby floor, they're going to the lobby
 - Elevator drops off passengers on its way up and on the way down at the lobby
 - Half of the customers come on at the lobby, the other half come on with equal likelihood on the residential floors
 - When an elevator stops, it stops for 5 seconds (initial parameter)
 - An elevator travels one floor per second (initial parameter)
+- Rate of elevator use is constant (this is kind-of true for peak times)
 
-# Defining an Elevator Class
+# Creating the Simulation
+This section explains how I set up the simulation. If you are not interested in the methods, code, etc., feel free to skip to Results.
+
+### Elevator Class
 We're going to have multiple elevators, which all do the same thing. Good time to make a class! I've shown the move function for an elevator. The main point is an elevator can be in the following states, which are in the same order in the if-elif-else loop:
 - idle: the elevator does not have anyone inside and does not have anyone to pick up.
 - stopped: elevator has stopped to pick up / drop off people. You have to wait a few seconds to keep going.
@@ -53,7 +52,7 @@ class Elevator(object):
             self.loc += 1 if self.moving_up else -1                
 ```
 
-# Define Customer Class
+### Customer Class
 The customer class does not have much logic. The key is to randomly generate current floor and destination floor.
 
 
@@ -69,14 +68,15 @@ class Customer(object):
         self.on_elevator = None # which elevator customer entered
 ```
 
-# Define Parameters and Run Simulation
+### Parameters and Simulation Setup
 
-Each iteration of the for loop will symbolize one second in this simulation. This is convenient because I avoid having to use actual timing.
+The simulation is simply a for loop. Each iteration corresponds to a second. This is a convenient way to avoid synchronization and object-object communication.
 
-## Simulating Arrivals
-I am sampling a poisson distribution to determine arrival time. The lambda in this case is the number of seconds it takes for a passenger to call the elevator. I then take the cumulitive sum of this sampling, and this gives the seconds over the simulation that a passenger arrives.
+### Simulating Arrivals
+I am sampling a poisson distribution to determine arrival time. The lambda in this case is the number of seconds it takes for a passenger to call the elevator. I then take the cumulitive sum of this sample, and this gives the times at which a passenger arrives.
 
-## Poisson Distribution Assumptions
+__Poisson Distribution Assumptions__
+
 One important poisson assumption is that lambda is constant. Of course, it's not in my hotel. But for the purpose of this, I'm going to assume there's one hour that's relatively busy where a person calls an elevator every 20 seconds.
 
 
@@ -100,7 +100,7 @@ def simulation(button_press_func=None, time_steps=3600, wait_time=5, poisson_lam
     return e1, e2
 ```
 
-# Creating Decision Function for Which Button to Press
+### Decision Function for Customer (Both Buttons or One Button)
 Our simulation takes a function to decide which elevator the customer gets on. Below defines the simulation in which every passenger presses both buttons.
 
 ```python
@@ -111,8 +111,8 @@ def press_both(temp, e1, e2):
 press_both_sim = simulation(button_press_func=press_both, debug=False, time_steps=3600)
 ```
 
-# Plotting
-Let's look at the histogram of time spent for each customer. I'll also output a few statistics of interest, like throughput, average time, and worst case time
+### Output Example
+To analyze results, I'll be outputting a histogram of the time spent in route (waiting for and riding the elevator). I'll also output a few statistics of interest, like throughput, average time, and worst case time.
 
 
 ```python
@@ -126,16 +126,12 @@ display_results(*press_both_sim)
     combined mean elevator time: 36.9593023255814
     Worst trip time was 297
 
-
-
 ![png](/assets/output_15_1.png)
 
 
-# Comparing Average Times Based on Button Pressing
-Seeing the average times is useful, but we still need to compare different behaviors. Is double pressing worse than single pressing?
-
-Single pressing will be blind. At random, the patron will choose which elevator to call.
-
+# Results
+## Comparing Average Times Based on Button Pressing
+Lets compare different behaviors. Is double pressing worse than single pressing? 
 
 ```python
 def press_one(temp, e1, e2):
@@ -155,20 +151,16 @@ display_results(*press_one_sim)
     combined mean elevator time: 38.69714285714286
     Worst trip time was 174
 
-
-
 ![png](/assets/output_17_1.png)
 
+Look at the average results. If everyone presses both buttons, we get about 37 seconds of average travel time. If everyone presses one button, we get about 39 seconds of average travel time. I'm not too confident about these results because this is only one trial. We'll be more rigorous later. 
 
-# Comparisons
-Look at the average results. If everyone presses both buttons, we get about 37 seconds of average travel time. If everyone presses one button, we get about 39 seconds of average travel time. I'm not too confident about these results because this is only one trial. We'll be more rigorous later.
+Looking more closely at the histogram reveals an interesting result. The tail if everyone presses both buttons is longer. This means, everyone does a bit better on average, but the worst case is worse. The worst case if everyone pressed both buttons is about two minutes longer! Yea, on average we go slightly faster (2 seconds) but we can potentially have a much longer ride. 
 
-Looking more closely at the histogram reveals an interesting result. The tail if everyone presses both buttons is longer. This means, everyone does a bit better on average, but the worst case is also worse. The worst case if everyone pressed both buttons is about two minutes longer! Yea, on average we go slightly faster (2 seconds) but we can potentially have a much longer ride. 
-
-This is a good example of mean being a misleading statistic if the distribution is not Gaussian (not a normal curve). We have these long tails, which are hidden if we focus only on the mean. We should focus on the median! The worst case is also useful to some extent, but not the end all, be all. It would be wise to look at quantiles.
+This is a good example of mean being a misleading statistic if the distribution is not Gaussian (not a normal curve). We have these long tails, which are hidden if we focus only on the mean. We should focus on the median, which is resistant to outliers! The worst case is also useful to some extent, but not the end all, be all. It would be wise to look at quantiles.
 
 
-# Comparing Statistics for Skewed Distributions
+## Comparing Median and Quantiles
 Now I will look at median and quantiles when comparing the two distributions.
 
 ```python
@@ -201,14 +193,20 @@ summary_statistics(one_times, both_times)
 
 ![png](/assets/output_36_1.png)
 
-
-Interesting. Around the 95th quantile, pressing both buttons significantly increases elevator time. However, in general it is faster.
+Here is an interesting result. Around the 95th quantile, pressing both buttons significantly increases elevator time. However, in general it is faster. So, 5% of the time, you are going to get unlucky and have a worse time.
 
 So, if everyone chooses to press both buttons, we get a 6 second speed up, at the expense of a 2 minute worse, worst case scenario.
 
-# Future Work
-This is part one of this exploration. In the future, I will explore the following questions:
+# Conclusions and Future Work
+I was really hoping that the simulation would prove my intuition right. I was angry at the two-button-pressers and wanted to score a victory for the less wasteful one-button-pressers. This did not turn out to be true.
+
+I explored ratios of different pressers hoping to find an optimal ratio of people pressing both buttons, but the variation was simply too high.
+
+This is a very basic exploration of this complicated problem. I did not explore how different parameters, which are not that accurate, would affect the outcome. 
+
+In the future, I hope to explore the following:
 
 - What happens to the people who are one button pushers? (I personally feel guilty wasting an elevator trip, so I only push one.) In general, what happens when its not everyone doing the behavior, but some combination of the two.
+- How does the result change if we vary elevator speed, time it takes to open and close, arrival speed, etc.
 - How can we model this analytically, i.e. without a simulation?
 
