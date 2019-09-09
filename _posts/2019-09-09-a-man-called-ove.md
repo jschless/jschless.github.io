@@ -1,7 +1,7 @@
 ---
 layout: post
 category: bookpost
-title:  "A Man Called Ove"
+title:  "A Man Called Ove by Fredrik Backman"
 date:   2019-09-09 07:41:36 +0530
 ---
 
@@ -21,7 +21,7 @@ Many of the issues I had with the book were the parts which were unrealistic, ou
 
 - There is a scene where the fat neighbor thaws a frozen cat using his obese superpower (above average body heat). It sounds bizarre out of context. The funny thing is, its bizarre in the novel. It feels very out of place in terms of tone and seriousness. It is not obvious that this does anything to advance the plot or develop any of the characters.
 
-- Ove is a grumpy man who is rude to many, but he turns into some perfect being as the novel progresses. How can a character have grumpiness as his only flaw? It would've been more realistic for Ove to also be a racist (i.e. Clint Eastwood in Gran Torino). It doesn't compute that someone would be so grumpy and distrustful of the world, but as soon as people force him to interact with them, he becomes a saint. 
+- Ove is a grumpy man who is rude to many, but he turns into some perfect being as the novel progresses. How can a character have grumpiness as his only flaw? It would've been more realistic for Ove to also be a racist (i.e. Clint Eastwood in Gran Torino). It doesn't compute that someone would be so grumpy and distrustful of the world, but as soon as people force him to interact with them, he becomes a saint. Maybe this is a commentary on the state of the world: people can't see the value in an imperfect man like Clint Eastwood's character. Only saints can be accepted. 
 
 - Ove is treated as this old geezer, but he is described as 59. This will likely offend old people, but the frustrating part is his peers are also treated as very old. His former best friend (presumably his age) has Alzheimer's. It seems like the author made him young so he could plausibly have his superhuman strength and handiness around the house, but it introduces other inconsistencies.
 
