@@ -15,7 +15,7 @@ __Recommendation Scale__:
 
 | Title                                  | Author                              | Start Date | End Date  | Pages | Thoughts                                                | Rating |
 | :------------------------------------: | :---------------------------------: | :--------: | :-------: | :---: | :------:                                                | :----: |
-| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Here]({% post_url 2019-09-09-a-man-called-ove %})      | 4      |
+| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Coming Soon]({% post_url 2019-09-09-a-man-called %})      | 4      |
 | The Rational Optimist                  | Matt Ridley                         | 30AUG2019  | 03SEP2019 | 360   | [Here]({% post_url 2019-09-03-the-rational-optimist %}) | 3      |
 | One Hundred Years of Solitude          | Gabriel Garcia Marquez              | 22AUG2019  | 30AUG2019 | 417   | _todo_                                                  | _todo_ |
 | Meditations                            | Marcus Aurelius                     | 18AUG2019  | 21AUG2019 | 170   | _todo_                                                  | _todo_ |
