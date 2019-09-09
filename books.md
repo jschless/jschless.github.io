@@ -1,7 +1,91 @@
 ---
 layout: book
 ---
+# Book Log
 
-Here is the reading list section of my blog. Below is a table of the books I've read and recommend.
+I'm keeping a running table of books I've read and a link to my thoughts on them (if any).
 
 
+| Title                                  | Author                              | Start Date | End Date  | Pages | Thoughts | Rating |
+| :------------------------------------: | :---------------------------------: | :--------: | :-------: | :---: | :------: | :----: |
+| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Here]({% post_url 2019-09-09-a-man-called-ove %})   | _todo_ |
+| The Rational Optimist                  | Matt Ridley                         | 30AUG2019  | 03SEP2019 | 360   | _todo_   | _todo_ |
+| One Hundred Years of Solitude          | Gabriel Garcia Marquez              | 22AUG2019  | 30AUG2019 | 417   | _todo_   | _todo_ |
+| Meditations                            | Marcus Aurelius                     | 18AUG2019  | 21AUG2019 | 170   | _todo_   | _todo_ |
+| Catch-22                               | Joseph Heller                       | 11AUG2019  | 17AUG2019 | 455   | _todo_   | _todo_ |
+| Average is Over                        | Tyler Cowen                         | 05AUG2019  | 09AUG2019 | 260   | _todo_   | _todo_ |
+| Lolita                                 | Vladimir Nabokov                    | 29JUL2019  | 01AUG2019 | 315   | _todo_   | _todo_ |
+| The 48 Laws of Power                   | Robert Greene                       | 20JUL2019  | 28JUL2019 | 430   | _todo_   | _todo_ |
+| Journey to the End of the Night        | Louis-Ferdinand Celine              |            |           | 440   | _todo_   | _todo_ |
+| The Castle                             | Franz Kafka                         | 29APR2019  | 03MAY2019 | 316   | _todo_   | _todo_ |
+| The Sun Also Rises                     | Ernest Hemingway                    | 29APR2019  | 03MAY2019 | 247   | _todo_   | _todo_ |
+| Battle Hymn of the Riger Mother        | Amy Chua                            | 25APR2019  | 27APR2019 | 242   | _todo_   | _todo_ |
+| Homage to Catalonia                    | George Orwell                       | 10APR2019  | 23APR2019 | 175   | _todo_   | _todo_ |
+| Endurance                              | Alfred Lansing                      | 09APR2019  | 10APR2019 | 353   | _todo_   | _todo_ |
+| The Road to Serfdom                    | F.A. Hayek                          | 28MAR2019  | 25APR2019 | 240   | _todo_   | _todo_ |
+| The Diversity Delusion                 | Amy McDonald                        | 25MAR2019  | 02APR2019 | 300   | _todo_   | _todo_ |
+| Black Hearts                           | Jim Frederick                       | 25MAR2019  | 10APR2019 | 363   | _todo_   | _todo_ |
+| One Day in the Life of Ivan Denisovich | Alexander Solzhenitsyn              | 21MAR2019  | 28MAR2019 | 178   | _todo_   | _todo_ |
+| LikeWar                                | P.W. Singer and Emerson T. Brooking | 03MAR2019  | 21MAR2019 | 273   | _todo_   | _todo_ |
+| Platoon Leader                         | James McDonough                     | 12FEB2019  | 21FEB2019 | 230   | _todo_   | _todo_ |
+| In The First Circle                    | Alexander Solzhenitsyn              | 11FEB2019  | 02MAR2019 | 741   | _todo_   | _todo_ |
+| The Industries of the Future           | Alec Ross                           | 20JAN2019  | 04FEB2019 | 250   | _todo_   | _todo_ |
+| The Return of Tarzan                   | Edgar Rice Burroughs                | 14JAN2019  | 16JAN2019 | 230   | _todo_   | _todo_ |
+| Tarzan of the Apes                     | Edgar Rice Burroughs                | 12JAN2019  | 14JAN2019 | 222   | _todo_   | _todo_ |
+| Anna Karenina                          | Leo Tolstoy                         | 23DEC2018  | 11JAN2019 | 817   | _todo_   | _todo_ |
+| The Adventures of Augie March          | Saul Bellow                         | 15OCT2018  | 06NOV2018 | 586   | _todo_   | _todo_ |
+| Excellent Sheep                        | William Deresiewicz                 | 08OCT2018  | 12OCT2018 | 242   | _todo_   | _todo_ |
+| Young Washington                       | Peter Stark                         | 23JUL2018  | 31JUL2018 | 420   | _todo_   | _todo_ |
+| The Road to Wigan Pier                 | George Orwell                       | 22JUL2018  | 23JUL2018 | 232   | _todo_   | _todo_ |
+| Dataclysm                              | Christian Rudder                    | 18JUL2018  | 22JUL2018 | 263   | _todo_   | _todo_ |
+| Ordinary Men                           | Christopher Browning                | 15JUL2018  | 18JUL2018 | 223   | _todo_   | _todo_ |
+| Fahrenheit 451                         | Ray Bradbury                        | 14JUL2018  | 15JUL2018 | 773   | _todo_   | _todo_ |
+| Weapons of Math Destruction            | Cathy O'Neill                       | 11JUL2018  | 13JUL2018 | 231   | _todo_   | _todo_ |
+| For Whom the Bell Tolls                | Ernest Hemingway                    | 04JUL2018  | 11JUL2018 | 472   | _todo_   | _todo_ |
+| Country Dark                           | Chris Offutt                        | 20JUN2018  | 04JUL2018 | 208   | _todo_   | _todo_ |
+| To Save Everything, Click Here         | Evgeny Morozov                      | 30JUN2018  | 03JUL2018 | 358   | _todo_   | _todo_ |
+| The Goldfinch                          | Donna Tartt                         | 19JUN2018  | 30JUN2018 | 773   | _todo_   | _todo_ |
+
+
+Past book list (prior to JUN2018), before I started freakishly recording things:
+
+- The Sympathizer - Viet Thanh Nguyen
+- Hillbilly Elegy - J.D. Vance
+- Freedom - Jonathon Franzenc
+- Purity - Jonathon Franzen
+- The Circle - Dave Eggers
+- Hashish: A Smuggler's Tale - Henry de Monfreid
+- The Zookeeper's Wife - Diane Ackerman
+- The Rational Optimist - Matt Ridley
+- Alexander Hamilton - Ron Chernow
+- A Grief Observed - C.S. Lewis
+- The Rape of Nanking - Iris Chang
+- Brave New World - Aldous Huxley
+- The Sound and the Fury - William Faulkner (Partial, how could anyone finish this book?)
+- One Bullet Away - Nathaniel Fick
+- Undaunted Courage - Stephen Ambrose
+- Gates of Fire- Steven Pressfield
+- Explaining Postmodernism - Stephen Hicks
+- The Metamorphosis - Franz Kafka
+- Churchill and Orwell - Thomas Ricks
+- Crime and Punishment - Fyodor Dostoevsky
+- The Trial - Franz Kafka
+- 1984 - George Orwell
+- Animal Farm - George Orwell
+- The Spy Who Came in from the Cold - John le Carre
+- I Am Charlotte Simmons - Tom Wolfe
+- The Stranger - Albert Camus
+- Madame Bovary - Gustave Flaubert
+- The Vanishing American Adult - Ben Sasse
+- The Adventures of Huckleberry Finn - Mark Twain
+- A Farewell to Arms - Ernest Hemingway
+- Emile - Jean-Jacques Rousseau
+- The Brothers Karamazov - Fyodor Dostoevsky
+- Slaughterhouse 5 - Kurt Vonagut
+- Between the World and Me - Ta-Nahesi Coates
+- 12 Rules for Life - Jordan Peterson
+- Everybody Lies - Seth Stephens-Davidowitz
+- The Shallows - Nicholas Carr
+- Irresistible - Adam Alter
+- The 10 Laws of Trust - Joel Peterson
+- Conspiracy - Ryan Holiday

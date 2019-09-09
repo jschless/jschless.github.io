@@ -1,6 +1,6 @@
 ---
 layout: post
-category: bookpost
+category: generalblog
 title:  "How I Remember What I Read: The Commonplace Book"
 date:   2019-08-07 21:03:36 +0530
 ---
