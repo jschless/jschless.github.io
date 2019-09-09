@@ -18,7 +18,7 @@ It got a little too political at the end. Ridley starts ranting against environm
 
 There were a ton of interesting tidbits and facts. Ridley's best quality in my opinion is turning statistics into relatable measures, like his conversion of cost to time spent working.
 
-Some interesting specifics:
+# Quotes and Specific Thoughts
 
 - "Today a car emits less pollution travelling at full speed than a parked car did in 1970 from leaks." 17
 
