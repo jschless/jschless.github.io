@@ -9,17 +9,17 @@ __TLDR__: _A Man Called Ove_ is gripping, entertaining and beautiful, but only t
 
 
 ### Initial Thoughts
-It's written simply, so anyone can read it. It is far more easier to digest than anything referred to as literature. Moreover, it's a pretty quick read, at only 340 pages. It's the literary equivalent to [Gran Torino](https://www.imdb.com/title/tt1205489/). Ove is like a Swedish Clint Eastwood without the racism. He has the cliche "get off my lawn" attitude, but his tough exterior is eventually broken down by a Pakistani woman and her children and bumbling husband.
+It's written simply, so anyone can read it. It is pretty easy to digest; a snob might think scoff at this but I think its a virtue. Moreover, it's a pretty quick read at only 340 pages. It's the literary equivalent to [Gran Torino](https://www.imdb.com/title/tt1205489/). Ove is like a Swedish Clint Eastwood without the racism. He has the cliche "get off my lawn" attitude, but his tough exterior is eventually broken down by a Pakistani woman, her children and her bumbling husband.
 
 I think the timeline of the book is effective if unoriginal. It starts at the end (cliche) and then alternates between sharing Ove's origin story and his present adventures. The author slowly reveals that this exceedingly grumpy man is very principled, or has a "strong constitution." The reader comes to admire this aspect of Ove. Who in 2019 doesn't wish for there to be more people of principle in the world?
 
 ### Snobbish Criticisms
 
-I repeat that I think the book is very entertaining and moving, but it is not particularly profound or intricate. The book snob in me is about to come out, so anyone who is intolerant to pretentiousness may prefer to stop reading.
+I repeat that I think the book is very entertaining and moving, but it is not particularly profound or intricate. The snob in me is about to come out, so anyone who is intolerant to pretentiousness may prefer to stop reading.
 
-Many of the issues I had with the book were the parts which were unrealistic, out-of-place, or otherwise cliches. In no particular order:
+Many of the issues I had with the book were the parts which were unrealistic, out-of-place, or otherwise cliche. In no particular order:
 
-- There is a scene where the fat neighbor thaws a frozen cat using his obese superpower (above average body heat). It sounds bizarre out of context. The funny thing is, its bizarre in the novel. It feels very out of place in terms of tone and seriousness. It is not obvious that this does anything to advance the plot or develop any of the characters.
+- There is a scene where the fat neighbor thaws a frozen cat using his obese superpower (above average body heat). It may sound bizarre out of context. The funny thing is, its bizarre in the novel! It feels very out of place in terms of tone and seriousness. It is not obvious that this does anything to advance the plot or develop any of the characters.
 
 - Ove is a grumpy man who is rude to many, but he turns into some perfect being as the novel progresses. How can a character have grumpiness as his only flaw? It would've been more realistic for Ove to also be a racist (i.e. Clint Eastwood in Gran Torino). It doesn't compute that someone would be so grumpy and distrustful of the world, but as soon as people force him to interact with them, he becomes a saint. Maybe this is a commentary on the state of the world: people can't see the value in an imperfect man like Clint Eastwood's character. Only saints can be accepted. 
 
@@ -28,6 +28,6 @@ Many of the issues I had with the book were the parts which were unrealistic, ou
 - __(BIG SPOILER)__ The plot is very repetitive. He tries to kill himself, fails, and gets more involved with the community. Repeat until he stops trying to kill himself. I marked this as a spoiler, but knowing the plot of the book does not mean you should not read it. Like I said, the plot isn't particularly profound, and the book may still be worth reading for its emotional effect.
 
 ### Conclusion
-These complaints aside, the book is very moving. I suspect this has something to do with the reader's ability to relate to the main character. Readers who have a strong, masculine patriarch in their lives will connect to Ove, as he is a caricature of mid 20th century masculinity. Similarly, readers who fancy themselves as strong, masculine patriachs will be moved. However, I hypothesize that many readers will not be able to connect to the book in this way. And without the emotional pull of the book, the plot, motifs, and  character development seem like they would not hold up on their own. 
+These complaints aside, the book is very moving. I suspect this has something to do with the reader's ability to relate to the main character. Many readers have an Ove in their lives, as he is in some sense a caricature of traditional masculinity. Readers without this connection may not be able to connect to the book in this way. Without it emotional, its plot, motifs, and  character development seem like they would not hold up on their own. 
 
-While the literary value may not stand up, especially when compared to Catch-22 or One Hundred Years of Solitude, its nonetheless a powerful book that inspires the reader to be kind. I walked away from the book wanting to help out in my community, to contribute to those less fortunate, and be a better person. Who can criticize a book that has this effect?
+While the literary value may not stand up, especially when compared to Catch-22 or One Hundred Years of Solitude (some recent reads), its nevertheless a powerful book that inspires the reader to be kind. I walked away from the book wanting to help out in my community, to contribute to those less fortunate, and be a better person. Who can criticize a book that has this effect?

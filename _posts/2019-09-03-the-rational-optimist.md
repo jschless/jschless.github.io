@@ -5,7 +5,9 @@ title:  "The Rational Optimist by Matt Ridley"
 date:   2019-09-03 07:41:36 +0530
 ---
 
-This is a long, well-researched, and, at times, dry book. I enjoyed it overall. 
+__TLDR__: _The Rational Optimist_ is a long, well-researched, and, at times, dry book that inspires hope for the future with statistics and a refreshing appreciative attitude. 
+
+Interestingly enough, this book was recommended to me by General David Petraeus. I went to a talk and he told the audience to read it. That was nearly two years ago, but General Petraeus, I read it! It was worth it. The book is a bit dated (2010). It forced me to reflect on the history of mankind and the tremendous progress we have made. It made me hopeful that we will continue to make such progress. I agree with the central thesis of the book that trust (and the trade it enables) drives progress. 
 
 ### Rough Summary
 - It is great to live today compared to the past. 

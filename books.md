@@ -15,7 +15,17 @@ __Recommendation Scale__:
 
 | Title                                  | Author                              | Start Date | End Date  | Pages | Thoughts                                                | Rating |
 | :------------------------------------: | :---------------------------------: | :--------: | :-------: | :---: | :------:                                                | :----: |
-| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Coming Soon]({% post_url 2019-09-09-a-man-called %})      | 4      |
+| How to Hide an Empire                  | Danniel Immerwahr                   | 10JAN2019  | 22JAN2019 | 480   | _todo_                                                  | 2      |
+| Pachinko                               | Min Jin Lee                         | 26DEC2019  | 03JAN2019 | 480   | _todo_                                                  | 3      |
+| The Plot Against America               | Phillip Roth                        | 19DEC2019  | 26DEC2019 | 362   | _todo_                                                  | 4      |
+| The Right Stuff                        | Tom Wolfe                           | 11NOV2019  | 19DEC2019 | 350   | _todo_                                                  | 2      |
+| Dead Souls                             | Nikolay Gogol                       | 18OCT2019  | 25OCT2019 | 424   | _todo_                                                  | 2      |
+| The Assault on American Excellence     | Anthony Kronman                     | 15OCT2019  | 18OCT2019 | 217   | _todo_                                                  | 1      |
+| Stillness is the Key                   | Ryan Holiday                        | 11OCT2019  | 14OCT2019 | 260   | _todo_                                                  | 2      |
+| Super Pumped                           | Mike Isaac                          | 06OCT2019  | 10OCT2019 | 355   | _todo_                                                  | 3      |
+| The Meritocracy Trap                   | Daniel Markovits                    | 23SEP2019  | 05OCT2019 | 229   | _todo_                                                  | 3      |
+| Dignity                                | Chris Arnade                        | 10SEP2019  | 11SEP2019 | 280   | _todo_                                                  | 3      |
+| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Coming Soon]({% post_url 2019-09-09-a-man-called %})   | 4      |
 | The Rational Optimist                  | Matt Ridley                         | 30AUG2019  | 03SEP2019 | 360   | [Here]({% post_url 2019-09-03-the-rational-optimist %}) | 3      |
 | One Hundred Years of Solitude          | Gabriel Garcia Marquez              | 22AUG2019  | 30AUG2019 | 417   | _todo_                                                  | _todo_ |
 | Meditations                            | Marcus Aurelius                     | 18AUG2019  | 21AUG2019 | 170   | _todo_                                                  | _todo_ |
