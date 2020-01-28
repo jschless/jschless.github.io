@@ -25,7 +25,7 @@ __Recommendation Scale__:
 | Super Pumped                           | Mike Isaac                          | 06OCT2019  | 10OCT2019 | 355   | _todo_                                                  | 3      |
 | The Meritocracy Trap                   | Daniel Markovits                    | 23SEP2019  | 05OCT2019 | 229   | _todo_                                                  | 3      |
 | Dignity                                | Chris Arnade                        | 10SEP2019  | 11SEP2019 | 280   | _todo_                                                  | 3      |
-| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Here]({% post_url 2019-09-09-a-man-called %})   | 4      |
+| A Man Called Ove                       | Fredrik Backman                     | 05SEP2019  | 08SEP2019 | 337   | [Here]({% post_url 2019-09-09-a-man-called-ove %})   | 4      |
 | The Rational Optimist                  | Matt Ridley                         | 30AUG2019  | 03SEP2019 | 360   | [Here]({% post_url 2019-09-03-the-rational-optimist %}) | 3      |
 | One Hundred Years of Solitude          | Gabriel Garcia Marquez              | 22AUG2019  | 30AUG2019 | 417   | _todo_                                                  | _todo_ |
 | Meditations                            | Marcus Aurelius                     | 18AUG2019  | 21AUG2019 | 170   | _todo_                                                  | _todo_ |
