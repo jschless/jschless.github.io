@@ -1,0 +1,17 @@
+---
+layout: post
+category: generalblog
+title:  "On the Virtue of Military Service"
+date:   2020-01-28 21:03:36 +0530
+---
+During his presidential campaign, Mayor Pete Buttigieg has come under fire over the virtue of his military service. To recap, he served in the Navy reserves for 8 years and retired as a Lieutenant. His service involved an overseas deployment. Mayor Pete started out in the most establishment way possible moving quickly from Harvard to Oxford (as a Rhodes Scholar) to McKinsey. Why turn to military service? This is the path that makes skeptics suspicious.
+
+Perhaps this suspicion is warranted. Mayor Pete is clearly a world class hoop jumper and his military service could very well be a box checked on the path to political glory. Its also plausible that he is a patriotic American who wanted to use his talents to serve in the nation's defense. His true motivation could be some combination of the two, or anything on the dizzying spectrum from selfless service to self-aggrandizement. Whatever his true reasons were, I don't believe that it matters.
+
+While it may seem perverse to serve for political gain, such a judgment comes from a quixotic and uninformed perspective on the military and its members. What would be a pure motive for joining our nation's military? At the very least, what would pass the Vox (or other mainstream media) sniff test? Almost every servicemember has some ulterior selfish or otherwise impure motive for joining. Some want to be appreciated, some want a stable career, some want to experience adventure, some want to be empowered, some want to pay for college, some want to be a hero, etc. True selfless intentions rarely exists just as selflessness rarely exists; selflessness is a virtue and an ideal, not a norm. 
+
+It doesn't really matter. Whether you serve to put food on the table or to advance your political career, you're still serving. You will still be put in harm's way for the nation's defense. And though the ulterior motives of one's commitment to serve might degrade performance, it is the duty of a servicemember to resist this degradation. 
+
+We shouldn't scrutinize one's service based on his motivations to serve; with this standard, we would find that zero servicemembers measure up. The only thing that ought to be scrutinized is the professionalism of the servicemember and her ability to perform her job as if her service were selfless. From Worth's Batallion Orders, the ideal soldier "does his duty faithfully, notwithstanding it occasionally wars with his private feelings." Anything else is "a satire upon soldiership and honor." 
+
+So, did Mayor Pete do his duty faithfully? That's all that matters, even if his service was simply a stepping stone in the life of a political mastermind. 
