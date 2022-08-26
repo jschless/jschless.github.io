@@ -1,22 +1,26 @@
 ---
 layout: page
 ---
+
+<img src="/assets/portugal_pic.jpg" align="right" style="padding:15px;" height="250"/>
+
 # Background
-My name is Joe Schlessinger. I'm an engineer officer in the United States Army. I'm currently assigned as a graduate student at MIT. I am pursuing a Master's Degree in Technology and Policy as Military Fellow at MIT's Lincoln Laboratory.
+
+My name is Joe Schlessinger. I wear a few hats.
 
 # General Interests
-- Reading
-- Data Science
-- Running (slowly)
-- Chicago sports (White Sox, not Cubs)
+
+- Chicago sports
+- Data science
 - Honesty (intellectual and otherwise)
 - Luddite screeds
+- Reading
 
 # Research Interests
-- Economics of disruption
+
+- Media Studies and Information Science
 - Military-Private Sector Cooperation
 - Modernization and Innovation
-- Media and Information Science 
 - Future of Work
 - Class Divide
 
