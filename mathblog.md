@@ -2,4 +2,4 @@
 layout: mathpost
 ---
 
-Here are my posts about math related things.
+Here are my data science related blog posts.

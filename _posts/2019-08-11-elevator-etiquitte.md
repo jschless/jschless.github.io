@@ -1,9 +1,11 @@
 ---
 layout: post
 category: mathblog
-title:  "Modeling Elevator Etiquette: Part 1"
+title:  "Modeling Elevator Etiquette"
 date:   2019-08-11 21:03:36 +0530
 ---
+__TLDR__: I run an elevator simulation to determine optimal behavior in my apartment building when an elevator breaks. 
+
 # The Problem
 My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators. Usually, you press a button and one of the elevators comes to pick you up.
 

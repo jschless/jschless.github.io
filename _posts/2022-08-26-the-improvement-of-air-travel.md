@@ -5,6 +5,8 @@ title: "Modest Proposals for the Improvement of Commercial Air Travel"
 date: 2022-08-26 21:03:36 +0530
 ---
 
+**TLDR**: Flying can be miserable and it seems like they could fix it.
+
 ## A Regrettable Experience
 
 “Excuse me sir, we’re going to have to gate check your bag.” I shrugged as the attendant affixed a shipping label to my bag and I boarded the plane. There’s never space for my bag by the time I board. Whatever. I got to my aisle seat 8 rows from the back of the plane. There’s a stout 6’4” man in the middle seat. He does not properly fit and his legs and arms flow over into the airspace of my seat. I sit down and put on my noise cancelling headphones and before long we’re in the air.
