@@ -644,6 +644,12 @@ header {
 .clearfix {
   clear: both; }
 
+.image_right {
+  float: right; }
+
+.image_left {
+  float: left; }
+
 .container {
   margin: 0 150px;
   max-width: 2420px; }

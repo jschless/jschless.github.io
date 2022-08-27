@@ -5,22 +5,22 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/css/style.css">
-<title>Modeling Elevator Etiquette: Part 1</title>
+<title>Modeling Elevator Etiquette</title>
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Modeling Elevator Etiquette: Part 1 | The Meandering Dilettante</title>
+<title>Modeling Elevator Etiquette | The Meandering Dilettante</title>
 <meta name="generator" content="Jekyll v3.8.6" />
-<meta property="og:title" content="Modeling Elevator Etiquette: Part 1" />
+<meta property="og:title" content="Modeling Elevator Etiquette" />
 <meta name="author" content="Joe Schlessinger" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="The Problem My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators. Usually, you press a button and one of the elevators comes to pick you up." />
-<meta property="og:description" content="The Problem My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators. Usually, you press a button and one of the elevators comes to pick you up." />
+<meta name="description" content="TLDR: I run an elevator simulation to determine optimal behavior in my apartment building when an elevator breaks." />
+<meta property="og:description" content="TLDR: I run an elevator simulation to determine optimal behavior in my apartment building when an elevator breaks." />
 <link rel="canonical" href="http://localhost:4000/posts/elevator-etiquitte/" />
 <meta property="og:url" content="http://localhost:4000/posts/elevator-etiquitte/" />
 <meta property="og:site_name" content="The Meandering Dilettante" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-08-11T11:33:36-04:00" />
 <script type="application/ld+json">
-{"datePublished":"2019-08-11T11:33:36-04:00","dateModified":"2019-08-11T11:33:36-04:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/elevator-etiquitte/"},"url":"http://localhost:4000/posts/elevator-etiquitte/","author":{"@type":"Person","name":"Joe Schlessinger"},"description":"The Problem My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators. Usually, you press a button and one of the elevators comes to pick you up.","headline":"Modeling Elevator Etiquette: Part 1","@context":"https://schema.org"}</script>
+{"datePublished":"2019-08-11T11:33:36-04:00","dateModified":"2019-08-11T11:33:36-04:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/elevator-etiquitte/"},"url":"http://localhost:4000/posts/elevator-etiquitte/","author":{"@type":"Person","name":"Joe Schlessinger"},"description":"TLDR: I run an elevator simulation to determine optimal behavior in my apartment building when an elevator breaks.","headline":"Modeling Elevator Etiquette","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 </head>
 <body>
@@ -31,10 +31,10 @@
 		<a href="/about/"><li>About</li></a>
 		<a href="/blog/"><li>General Blog</li></a>		
 		<a href="/books/"><li>Reading List</li></a>
-		<a href="/mathblog/"><li>Math Blog</li></a>
+		<a href="/mathblog/"><li>Code Blog</li></a>
 	</ul>
 </div></div><div class="container">
-	<h1>Modeling Elevator Etiquette: Part 1</h1>
+	<h1>Modeling Elevator Etiquette</h1>
 	<h4 class="post-description"></h4>
 	<div class="post-date" style="margin-top:20px">
 		Published on Aug 11, 2019
@@ -45,7 +45,9 @@
   <main>
     <div class="container">
       <div class="post-container">
-          <h1 id="the-problem">The Problem</h1>
+          <p><strong>TLDR</strong>: I run an elevator simulation to determine optimal behavior in my apartment building when an elevator breaks.</p>
+
+<h1 id="the-problem">The Problem</h1>
 <p>My apartment building has three elevators, but one is reserved for freight. So, it really has two elevators. Usually, you press a button and one of the elevators comes to pick you up.</p>
 
 <p>But one of the elevators broke down! So, there was only one elevator to service a 23-story apartment building. Alas, the management, opened the freight elevator to the residents to increase throughput. The freight elevator has its own button, which works independently of the passenger elevator. In other words, if you press both the regular elevator and the freight elevator button, both elevators will come to get you.</p>
