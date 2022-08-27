@@ -2,38 +2,6 @@
 layout: book
 ---
 
-# Recommendations by Category
-
-## Literature
-
-- Journey to the End of the Night by Louis-Ferdinand Celine
-- One Hundred Years of Solitude by Gabriel Garcia Marquez
-- The Trial by Franz Kafka
-- In the First Circle by Alexander Solzhenitzyn
-- Crime and Punishment by Fyodor Dostoevsky
-- The Count of Monte Cristo by Alexandre Dumas
-
-## Modern Fiction
-
-- The Plot Against America by Philip Roth
-- Pachinko by Min Jin Lee
-- A Man Called Ove by Fredrik Bachman
-- The Goldfinch by Donna Tartt
-
-## Nonfiction
-
-- Dignity by Chris Arnade
-- Bobos in Paradise by David Brooks
-- The Road to Wigan Pier by George Orwell
-- Tribe by Sebastian Junger
-- The Rational Optimist by Matt Ridley
-
-## Philosophy
-
-- Meditations by Marcus Aurelius
-- To Save Everything, Click Here by Evgeny Morozov
-- Emile by Jean-Jacques Rousseau
-
 # Book Log
 
 I've been keeping a running log of books over the past few years or so. I'll link to my thoughts on them (if any). I've rated them each from 1 to 5.
