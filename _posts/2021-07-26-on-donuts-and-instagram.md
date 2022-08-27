@@ -9,14 +9,17 @@ date: 2021-08-26 21:03:36 +0530
 
 "Look! Do you see the donut wall? Through the window!" Neat. It wasn't _exactly_ a wall of donuts, but more a wall of pegs on which donuts were hanging. I found it aesthetically pleasing to an extent, but I kept asking myself _why._ Was this a functional way to array donuts? Would it help maximize donut throughput to the wedding guests? Was it respectful to the donuts?
 
-![Instagram donut storage](/assets/donut_wall.png)
-_Instagram donut storage_
+| ![Instagram donut storage](/assets/donut_wall.png) |
+| :------------------------------------------------: |
+|             _Instagram donut storage_              |
 
 The answer became obvious as I watched the other guests take pictures of this "donut wall." It's cool, creative (or at least once was), and is exactly the thing you might expect to see on the Instagram explore page. As I approached the wall to retrieve the donut I would eat, I noticed that they were melting. It turns out a peg board is not the ideal donut storing solution. The combination of the July heat and gravity caused the glaze to ooze down from the donuts and fall at the foot of the "wall" leaving the donuts with noticeable bald spots. But at least the pictures had already been taken.
 
 I think the donut wall is a good example of the havoc social media wreaks on our lives. We have donuts, a near perfect creation, but they are too commonplace. We must elevate them to be worthy of a Post so we torture them by sticking them to a wall until their iced goodness melts into a puddle.
 
-![Standard donut storage, Dunkin' Donuts](/assets/conventional_donuts.png)
+| ![Standard donut storage, Dunkin' Donuts](/assets/conventional_donuts.png) |
+| :------------------------------------------------------------------------: |
+|                  _Standard donut storage, Dunkin' Donuts_                  |
 
 The need for novelty outpaces the organic photo opportunities of life, so the social media user must manufacture novelty. We've seen donuts before, but have we seen donuts on a wall? Donuts suspended from the ceiling? A donut sculpture of the bride and groom, who are in turn eating donuts? We chase these novel, or semi-novel aesthetics until they lose Instagram-worthiness. How much longer does the "donut wall" have before its been done too many times and (thankfully) relegated to irrelevance?
 
@@ -50,4 +53,6 @@ If photographs could capture the full context of life and its endless novelty, g
 >
 > "White Woman's Instagram" by Bo Burnham
 
-![A "novel" (unnatural) pose](/assets/basic_girl.png)
+| ![A "novel" (unnatural) pose](/assets/basic_girl.png) |
+| :---------------------------------------------------: |
+|             _A "novel" (unnatural) pose_              |
