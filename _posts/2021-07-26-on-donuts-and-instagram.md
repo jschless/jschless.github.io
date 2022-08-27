@@ -10,6 +10,7 @@ date: 2021-08-26 21:03:36 +0530
 "Look! Do you see the donut wall? Through the window!" Neat. It wasn't _exactly_ a wall of donuts, but more a wall of pegs on which donuts were hanging. I found it aesthetically pleasing to an extent, but I kept asking myself _why._ Was this a functional way to array donuts? Would it help maximize donut throughput to the wedding guests? Was it respectful to the donuts?
 
 ![Instagram donut storage](/assets/donut_wall.png)
+_Instagram donut storage_
 
 The answer became obvious as I watched the other guests take pictures of this "donut wall." It's cool, creative (or at least once was), and is exactly the thing you might expect to see on the Instagram explore page. As I approached the wall to retrieve the donut I would eat, I noticed that they were melting. It turns out a peg board is not the ideal donut storing solution. The combination of the July heat and gravity caused the glaze to ooze down from the donuts and fall at the foot of the "wall" leaving the donuts with noticeable bald spots. But at least the pictures had already been taken.
 
