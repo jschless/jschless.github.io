@@ -1,12 +1,9 @@
 ---
 layout: home
 ---
-Hi. I'm Joe Schlessinger. Welcome to my blog. For more about me, click [here](/about).
 
-My posts come in a few forms: coding projects, book thoughts, and more general essays / musings.
+Hi. I'm Joe Schlessinger. Welcome to my blog.
 
-For more on why this blog exists, read [this]({% post_url 2019-08-07-purpose %}).
+This is where I post things on my mind. This ranges from writeups for programming pet projects to book reviews to essays and short fiction.
 
-Here are some of my recent posts:
-
-
+For more on why I started this blog, read [this]({% post_url 2019-08-07-purpose %}).
