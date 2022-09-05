@@ -5,6 +5,8 @@ title: "On Donuts and Instagram"
 date: 2021-08-26 21:03:36 +0530
 ---
 
+We're trapped in a novelty arms race.
+
 # Scenes From A Wedding
 
 "Look! Do you see the donut wall? Through the window!" Neat. It wasn't _exactly_ a wall of donuts, but more a wall of pegs on which donuts were hanging. I found it aesthetically pleasing to an extent, but I kept asking myself _why._ Was this a functional way to array donuts? Would it help maximize donut throughput to the wedding guests? Was it respectful to the donuts?
