@@ -3,5 +3,4 @@ _drafts/*
 _site/
 vendor/
 .sass-cache/
-assets/
 .DS_Store
