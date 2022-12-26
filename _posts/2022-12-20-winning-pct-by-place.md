@@ -39,7 +39,7 @@ Chicago is about consistent with the other major sports cities. None display sus
 ## Seasons by Place
 As with most things, winning percentage follows a normal distribution.[^1] The average win percentage is .488 and the standard deviation is .15. 
 
-![Armymarkdown](/assets/conservationofwins/hist.jpeg)
+![Histogram](/assets/conservationofwins/hist.jpeg)
 
 For the below plot, I've restricted it to cities with at least three major sports teams during that season. Almost every season lies between .4 and .6, but the outliers are interesting. Place your cursor over a point to see the city and the teams. In 1998, for example, Atlanta managed a .72 winning percentage thanks to the contributions of the Hawks, Falcons, and Braves. On the other end of the spectrum, Philadelphia in 1972 managed a .25 winning percentage. They had 4 teams! 
 
