@@ -72,6 +72,6 @@ In the future, I would like to add more input validation to prevent silly mistak
 
 I would also consider adding a GUI-like interface for building memos. While the markdown-like text language is easy for me to use, it still presents an unfamiliar challenge to less computer-savy users. Something akin to the evaluation entry system would do the trick, which allowed users to step-by-step build the memo. 
 
-Also, there are some advanced features it would be nice to add. As of nowm there is no support for tables or multiple signature blocks. The most advanced memos require these features. 
+Also, there are some advanced features it would be nice to add. As of now there is no support for tables or multiple signature blocks. The most advanced memos require these features. 
 
 Finally, I would like to streamline the latex compilation so it doesn't take so long. It takes like 8 seconds to compile even simple memos. This would be a lot of work.
