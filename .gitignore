@@ -1,3 +1,7 @@
 *~
 _drafts/*
-_site/*
+_site/
+vendor/
+.sass-cache/
+assets/
+.DS_Store
