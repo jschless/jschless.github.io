@@ -1,4 +1,4 @@
 ---
 layout: generalblog
 ---
-# Blog Posts
+# Miscellaneous Writing
