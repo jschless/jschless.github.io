@@ -13,17 +13,17 @@ I'll start with the conclusion. Looking solely at wages, being in the military i
 Wages have largely kept pace with median American wages. A fresh lieutenant (O-1) starts off at the median wage and this has always been true. For mid-career captains (O-3), they make well above the median wage and the gap has widened. The same is true for a lieutenant colonel (O-5) with 16 years of service. They make roughly three times the median wage today.
 
 ### Officers
-![Officers](../assets/militarypay/officers.jpeg)
+![Officers](/assets/militarypay/officers.jpeg)
 
 ### Enlisted
 The enlisted story is much the same. A private fresh into the military does not make a whole lot. They are well below the median wage but that is not particularly unreasonable, as a private enters the military with often little schooling or work experience. The early career sergeant (E-5) with 6 years experience makes about the median wage. Finally, a late-career sergeant first class (E-7) makes well above the median wage and this gap has widened in recent years.
 
-![Enlisted](../assets/militarypay/enlisted.jpeg)
+![Enlisted](/assets/militarypay/enlisted.jpeg)
 
 ### Officer v. Enlisted
 How do officer and enlisted pays compare? Well, for the same amount of experience, officers make more. The main takeaway I'd like to point out is that while wage increases have been fairly consistent for junior officers and enlisted, **more senior military personnel have seen steeper wage increases in recent years.** That is, junior servicemembers pay increases have kept pace with the rise in median wages, but senior servicemembers have widened the gap between them and the average American.
 
-![Officer v. Enlisted](../assets/militarypay/officers_v_enlisted.jpeg)
+![Officer v. Enlisted](/assets/militarypay/officers_v_enlisted.jpeg)
 
 
 ## A Complaint About Data
