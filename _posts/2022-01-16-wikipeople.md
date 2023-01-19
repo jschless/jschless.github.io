@@ -28,12 +28,12 @@ I think there's also some effect where *really* well-known people don't get look
 
 [^1]: Wikipedia, for all its glory, is compiled by volunteers and there are a lot of different date formats. I was able to parse most date formats, but some were too small/annoying to deal with. As a result, some pages of modern people are erroneously labeled as being born shortly after Christ.
 
-{% include /assets/plotly/top_wikis/.html %}
+{% include /plotly/top_wikis.html %}
 
 # The Forgotten About
 We've seen the top 10,000. How about the bottom 10,000? Well, I didn't recognize any of the names, so I am going to highlight a randomly selected one. [Shen Zurong](https://en.wikipedia.org/wiki/Shen_Zurong), the first professional librarian in China, received 485 views. He studied in the US and launched a tour around China to "promote librarianship" and spread the Dewey Decimal System. 
 
-{% include /assets/plotly/bottom_wikis/.html %}
+{% include /plotly/bottom_wikis.html %}
 
 
 # Your Chances
