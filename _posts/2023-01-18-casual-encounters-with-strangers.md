@@ -2,7 +2,7 @@
 layout: post
 category: generalblog
 title: "Casual Encounters with Strangers"
-date: 2024-01-01 21:03:36 +0530
+date: 2023-01-18 21:03:36 +0530
 ---
 
 Because I believe that other humans are the most interesting and valuable thing in the world. This will be a running log of mildly interesting casual encounters with strangers.
