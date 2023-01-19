@@ -2,7 +2,7 @@
 layout: post
 category: mathblog
 title:  "Legacy and Wikipedia: Will you be Remembered?"
-date:   2022-12-01 21:03:36 +0530
+date:   2023-01-18 21:03:36 +0530
 ---
 # What are *your* Chances of Being Remembered?
 __TLDR__: I explored biographical Wikipedia articles and their popularity.

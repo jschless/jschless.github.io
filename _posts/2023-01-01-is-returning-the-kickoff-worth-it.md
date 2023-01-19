@@ -2,7 +2,7 @@
 layout: post
 category: mathblog
 title:  "Is Returning the Kickoff Worth it anymore?"
-date:   2022-12-20 21:03:36 +0530
+date:   2022-12-28 21:03:36 +0530
 ---
 ## Motivation 
 The kickoff has traditionally been one of the most exciting plays in football. I remember the joy of watching Devin Hester in his prime. Every time he touched the ball, everyone held their breath! But the excitement goes hand-in-hand with danger and injury risk, and the NFL determined the violent full-speed collisions on kickoffs were too dangerous. So, [in 2011, the NFL moved the kick from the 30 yard line to the 35 yard line, along with limiting the running start by the kickoff team to 5 yards.](https://bleacherreport.com/articles/1343646-is-new-nfl-kickoff-rule-really-better-for-player-safety#:~:text=In%202010%2C%20the%20NFL%20passed,a%20five%2Dyard%20head%20start) The hope was to increase touchbacks and reduce the speed of collisions. It worked! They further attempted to discourage returns for the 2016 season when they [moved the touchback starting position from the 20 yard line to the 25 yard line](https://www.washingtonpost.com/news/sports/wp/2016/03/23/nfl-owners-approve-25-yard-touchback-rule-change-double-unsportsmanlike-conduct-ejections/). 
