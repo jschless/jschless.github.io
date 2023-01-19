@@ -42,12 +42,12 @@ So, what percentage of people have a Wikipedia page? Well, let's look at the num
 
 In 1950, an estimated 590 million people were born worldwide. As of now, there are 2,385 Wikipedia pages for people born in 1950. Roughly 4 in a million people in the 1950 cohort "earned" a Wikipedia page. That's [somewhere in between](https://www.investopedia.com/managing-wealth/worth-playing-lottery/#:~:text=For%20example%2C%20the%20odds%20of,bee%20sting%20during%20your%20lifetime) winning the Powerball jackpot (1 in ~300 million) and being struck by lightning in a year (1 in 1.2 million). Bon chance!
 
-![Wikipedia Pages per Million Births](/Users/joeschlessinger/Documents/jschless.github.io/assets/wikipedia/wikis_per_million.jpeg)
+![Wikipedia Pages per Million Births](/assets/wikipedia/wikis_per_million.jpeg)
 
 # Pageview Distribution
 Even if you manage to be that 1 in 4 million, your page may go largely unnoticed. The distribution of page views is skewed way right. The median number of views for 2022 was 350, or around one view per day. 1,400 of the 300k received zero page views! Moreover, these numbers are an overestimate; if a web crawler or accidental viewer stumbled upon the page, it still counts. 
 
-![Wikipedia Pages per Million Births](/Users/joeschlessinger/Documents/jschless.github.io/assets/wikipedia/pageview_distribution.jpeg)
+![Wikipedia Pages per Million Births](/assets/wikipedia/pageview_distribution.jpeg)
 
 # Conclusion
 Very few of the [117 billion humans who have ever existed](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/#:~:text=No%20demographic%20data%20exist%20for,ever%20been%20born%20on%20Earth.) have Wikipedia pages. I estimate the chance to be around 4 in a million. Even if you get a page, it may only be web crawlers and nerds like me viewing your stuff. 
