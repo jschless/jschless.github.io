@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Hi. I'm Joe Schlessinger. Welcome to my blog. This is where I post things on my mind. This ranges from writeups for weekend programming projects to book reviews to essays and short fiction.
+Hi. I'm Joe Schlessinger. Welcome to my blog. This is where I post things I've been working on: amateur research, coding projects, essays, short stories, and book reviews. See below for my most recent posts:
