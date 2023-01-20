@@ -16,7 +16,7 @@ It's reasonable to be concerned about one's brief stay on Earth. What will you l
 I understand that Wikipedia pageviews are not a perfect approximation of how well-known someone is, but it seems like a reasonably good one. Also, what's the alternative? 
 
 # The Remembered
-Below, I present the 10,000 most viewed biographical Wikipedia pages of 2022. You can immediately see that almost all of the pages are closer to modern times. Some of the pages right around year zero are from a parsing issue.[^1] You can hover over each dot to see who it is. If you draw a box around the dense post-1800 cluster, the chart will zoom in and you can see the individual points more clearly.
+Below, I present the 10,000 most viewed biographical Wikipedia pages of 2022. You can immediately see that almost all of the pages are closer to modern times. You may find some pages in the wrong bith year because of a parsing issue.[^1] You can hover over each dot to see who it is. If you draw a box around the dense post-1800 cluster, the chart will zoom in and you can see the individual points more clearly.
 
 Some of the very old people are doing ok. Our man Julius Caesar pulled 3.45 million views. Mary (mother of Jesus) and Mark Antony also did pretty well. There is a serious lull during the [dark ages](https://en.wikipedia.org/wiki/Dark_Ages_(historiography)). While there are some noteworthy appearances from the deep past, about 99% of the top 10,000 were born after 1800. 
 
@@ -26,7 +26,7 @@ One major, unsurprising takeaway is how related the top pages are to the news cy
 
 I think there's also some effect where *really* well-known people don't get looked up. That's my hypothesis for the conspicuous absence of Prince Harry and Megan Markle alongside the rest of the royal family. 
 
-[^1]: Wikipedia, for all its glory, is compiled by volunteers and there are a lot of different date formats. I was able to parse most date formats, but some were too small/annoying to deal with. As a result, some pages of modern people are erroneously labeled as being born shortly after Christ.
+[^1]: Wikipedia, for all its glory, is compiled by volunteers and there are a lot of different date formats. I was able to parse most date formats, but some were too small/annoying to deal with. As a result, some pages of modern people are erroneously labeled as being born shortly after Christ. Similarly, many pages are not included because I couldn't easily extract the birth year.
 
 {% include /plotly/top_wikis.html %}
 
