@@ -4,7 +4,6 @@ category: mathblog
 title:  "Legacy and Wikipedia: Will you be Remembered?"
 date:   2023-01-18 21:03:36 +0530
 ---
-# What are *your* Chances of Being Remembered?
 __TLDR__: I explored biographical Wikipedia articles and their popularity.
 
 > I just have this tremendous sense of time slipping away on me, Padraic. And I think I need to spend the time I have left thinking and composing. Just trying not to listen to any more of the dull things that you have to say for yourself. 
