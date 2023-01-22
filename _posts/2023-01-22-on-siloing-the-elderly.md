@@ -4,9 +4,6 @@ category: generalblog
 title: "On Siloing the Elderly"
 date: 2023-01-22 21:03:36 +0530
 ---
-
-# On Siloing the Elderly
-
 > Dear Alex,
 >
 > I hope you enjoyed your trip to Europe. They have such pretty castles there. I am doing fine. I wish I heard from you more. I would appreciate another puzzle or two. The garden is doing well. 
