@@ -1,11 +1,14 @@
 ---
 layout: post
 category: generalblog
-title: "Casual Encounters with Strangers"
-date: 2023-01-18 21:03:36 +0530
+title: "Ode on an American Football"
+date: 2023-02-20 21:03:36 +0530
 ---
 
 Because I believe that other humans are the most interesting and valuable thing in the world. This will be a running log of mildly interesting casual encounters with strangers.
+
+## A Kroger Valentine's Day (February 14th, 2023)
+The Kroger parking lot is packed. It's 5:30 PM on Valentine's Day and people from all walks of life are cycling through Kroger's to buy their romantic interests gifts. There were five men (teenagers and senior citizens alike) in line for self-checkout holding a variety of flowers. The men acknowledged their brotherhood with a tacit head nod. I walked out carrying a bouquet and an old woman recognized my situation with a massive smile. She threw her head back with satisfaction. I wonder what was going through her mind; it felt like I transported her back to her youth when love was fresh. A day so tainted by Hallmark and commercialism can still facilitate a deep connection within a commumity; amidst the hustle and bustle at the end of an ordinary 9 to 5, neighbors come together with a common culture coursing through their American veins. I literally spoke to no one, it took five minutes, and felt a strong sense of belonging with my countrymen.
 
 ## Sabotage on the T-Bar (January 13th, 2023)
 The Horseshoe Bowl T-Bar provides access to the bowls at the top of Breckenridge Ski Resort. It is different from a chairlift; the passenger is towed up the mountain by a "T" shaped bar attached to an overhead cable. This uncommon lift poses many challenges to its would-be riders; I estimated 20% of passengers fell off before reaching the top (number is skewed by a high failure rate for snowboarders). 
