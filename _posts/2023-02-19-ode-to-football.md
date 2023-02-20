@@ -2,7 +2,7 @@
 layout: post
 category: generalblog
 title: "Ode on an American Football: The Greatest Team Sport"
-date: 2023-02-20 21:03:36 +0530
+date: 2023-02-19 21:03:36 +0530
 ---
 
 Every year, around 100 million people tune into watch the Superbowl, an annual sporting event informally elevated to a national holiday. There's a reason: football (in the *American*-style) is the greatest sport and I can prove it. The dynamics of football create an extroardinary display of athleticism and strategy and a premium viewing experience.
