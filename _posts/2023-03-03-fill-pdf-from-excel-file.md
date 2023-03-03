@@ -59,7 +59,7 @@ records = [r for r in df.to_dict('records')]
 
 Then I processed each row and created a mapping from the field name to the actual value:
 
-```Python
+```python
 # filter the data to remove null values
 example_data = {k:v for k,v in records[0] if not pd.isna(v)}
 
