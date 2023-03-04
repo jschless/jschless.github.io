@@ -18,6 +18,15 @@ texture:
   style: blue
   showNav: true
   showPicker: false
+  navigation:
+    - title: Home
+      url: "/"
+    - title: Writing
+      url: "/blog"
+    - title: Projects
+      url: "/mathblog"
+    - title: Reading 
+      url: "/books"
 
   # generate social links in footer
   social_links:
