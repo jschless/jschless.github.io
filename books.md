@@ -12,6 +12,8 @@ Here's a visualization of this reading:
 
 | Title                                                                 | Author                                    | Start Date         | End Date           | Score | Pages | Thoughts |
 | :-------------------------------------------------------------------- | :---------------------------------------- | :----------------- | :----------------- | :---- | ----: | :------- |
+| Doctor Zhivago                                                        | Boris Pasternak                           |                    | March 5th, 2023    | ⭐️⭐️⭐️⭐️⭐️ |   520 |          |
+| Half the Way Home: A Memoir of Father and Son                         | Adam Hochschild                           | March 16th, 2023   | March 16th, 2023   | ⭐️⭐️⭐️⭐️⭐️ |   300 |          |
 | Daniel Deronda                                                        | George Eliot                              | January 10, 2023   | March 5th, 2023    | ⭐️⭐️⭐️⭐️  |   720 |          |
 | The Disappearance of Josef Mengele                                    | Olivier Guez                              | February 15, 2023  | February 15, 2023  | ⭐️⭐️⭐️⭐️  |   210 |
 | Moby Dick                                                             | Herman Mellville                          | August 26, 2022    | December 11, 2022  | ⭐️⭐️⭐️⭐️⭐️ |   727 |          |
