@@ -12,6 +12,8 @@ Here's a visualization of this reading:
 
 | Title                                                                 | Author                   | Start Date   | End Date   | Score      |   # Pages |
 |:----------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|----------:|
+| Truman                                                                | David McCullough         | 2023-09-22   | 2023-10-20 | ⭐️⭐️⭐️⭐️⭐️ |       991 |
+| The Poppy War                                                         | R.F. Kuang               | 2023-10-04   | 2023-10-06 | ⭐️⭐️⭐️     |       525 |
 | Dracula                                                               | Bram Stoker              | 2023-08-27   | 2023-09-05 | ⭐️⭐️⭐️⭐️   |       350 |
 | About Face                                                            | David Hackworth          | 2023-08-10   | 2023-08-27 | ⭐️⭐️⭐️⭐️   |       834 |
 | The Heart of Darkness                                                 | Joseph Conrad            | 2023-08-01   | 2023-08-02 | ⭐️⭐️⭐️     |       100 |
