@@ -85,10 +85,14 @@ for i in range(len(odd_deg_nodes)):
         odd_edge_graph.add_edge(u, v, weight=-min_dist)
 ```
 
-4) Computing the lowest cost pairing of odd-degree edges using min weight matching: ```mates = nx.algorithms.max_weight_matching(odd_edge_graph, maxcardinality=True)
+4) Computing the lowest cost pairing of odd-degree edges using min weight matching: 
+
+```python
+mates = nx.algorithms.max_weight_matching(odd_edge_graph, maxcardinality=True)
 ```
 
 5) Add imaginary "roads" between nodes according to the lowest cost pairing from step 4: 
+
 ```python
 for (v1, v2) in list(mates):
     eulerian_ug.add_edge(v1, v2, length=dist_mat[(v1, v2)])```
