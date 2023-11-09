@@ -12,6 +12,7 @@ Here's a visualization of this reading:
 
 | Title                                                                 | Author                   | Start Date   | End Date   | Score      |   # Pages |
 |:----------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|----------:|
+| The Project Phoenix                                                   | Gene Kim                 | 2023-11-04   | 2023-11-06 | ⭐️⭐️⭐️⭐️   |       300 |
 | Truman                                                                | David McCullough         | 2023-09-22   | 2023-10-20 | ⭐️⭐️⭐️⭐️⭐️ |       991 |
 | The Poppy War                                                         | R.F. Kuang               | 2023-10-04   | 2023-10-06 | ⭐️⭐️⭐️     |       525 |
 | Dracula                                                               | Bram Stoker              | 2023-08-27   | 2023-09-05 | ⭐️⭐️⭐️⭐️   |       350 |
@@ -79,8 +80,8 @@ Here's a visualization of this reading:
 | Bad Religion                                                          | Ross Douthat             | 2020-06-02   | 2020-07-07 | ⭐️⭐️⭐️     |       350 |
 | The Innovator's Dilemma                                               | Clayton Christensen      | 2020-06-13   | 2020-06-21 | ⭐️⭐️⭐️     |       229 |
 | The Art of Doing Science and Engineering                              | Richard Hamming          | 2020-06-02   | 2020-06-08 | ⭐️⭐️⭐️     |       398 |
-| The Power Broker                                                      | Robert Caro              | 2020-05-18   | 2020-05-31 | ⭐️⭐️⭐️⭐️⭐️ |      1165 |
 | Range                                                                 | David Epstein            | 2020-05-26   | 2020-05-31 | ⭐️⭐️⭐️⭐️   |       350 |
+| The Power Broker                                                      | Robert Caro              | 2020-05-18   | 2020-05-31 | ⭐️⭐️⭐️⭐️⭐️ |      1165 |
 | The Last Man Who Knew Everything                                      | David Schwartz           | 2020-05-04   | 2020-05-22 | ⭐️⭐️⭐️     |       450 |
 | Beloved                                                               | Toni Morrison            | 2020-05-13   | 2020-05-16 | ⭐️⭐️       |       320 |
 | The Idiot                                                             | Fyodor Dostoevsky        | 2020-05-06   | 2020-05-12 | ⭐️⭐️⭐️     |       720 |
@@ -121,8 +122,8 @@ Here's a visualization of this reading:
 | Battle Hymn of the Tiger Mother                                       | Amy Chua                 | 2019-04-25   | 2019-04-29 | ⭐️⭐️⭐️⭐️   |       242 |
 | The Road to Serfdom                                                   | F.A. Hayek               | 2019-03-28   | 2019-04-25 | ⭐️⭐️⭐️⭐️   |       240 |
 | Homage to Catalonia                                                   | George Orwell            | 2019-04-10   | 2019-04-23 | ⭐️⭐️⭐️⭐️   |       175 |
-| Endurance                                                             | Alfred Lansing           | 2019-04-09   | 2019-04-10 | ⭐️⭐️⭐️⭐️⭐️ |       353 |
 | Black Hearts                                                          | Jim Frederick            | 2019-03-25   | 2019-04-10 | ⭐️⭐️⭐️⭐️   |       363 |
+| Endurance                                                             | Alfred Lansing           | 2019-04-09   | 2019-04-10 | ⭐️⭐️⭐️⭐️⭐️ |       353 |
 | The Diversity Delusion                                                | Amy McDonald             | 2019-03-25   | 2019-04-01 | ⭐️⭐️⭐️     |       300 |
 | One Day in the Life of Ivan Denisovich                                | Alexander Solzhenitsyn   | 2019-03-21   | 2019-03-28 | ⭐️⭐️⭐️⭐️   |       178 |
 | Like War                                                              | Emerson T. Brooking      | 2019-03-03   | 2019-03-21 | ⭐️⭐️       |       273 |
