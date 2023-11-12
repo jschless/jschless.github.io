@@ -13,7 +13,7 @@ Here's a visualization of this reading:
 | Title                                                                 | Author                   | Start Date   | End Date   | Score      |   # Pages |
 |:----------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|----------:|
 | The Project Phoenix                                                   | Gene Kim                 | 2023-11-04   | 2023-11-06 | ⭐️⭐️⭐️⭐️   |       300 |
-| Truman                                                                | David McCullough         | 2023-09-22   | 2023-10-20 | ⭐️⭐️⭐️⭐️⭐️ |       991 |
+| [Truman](/posts/Truman)                                               | David McCullough         | 2023-09-22   | 2023-10-20 | ⭐️⭐️⭐️⭐️⭐️ |       991 |
 | The Poppy War                                                         | R.F. Kuang               | 2023-10-04   | 2023-10-06 | ⭐️⭐️⭐️     |       525 |
 | Dracula                                                               | Bram Stoker              | 2023-08-27   | 2023-09-05 | ⭐️⭐️⭐️⭐️   |       350 |
 | About Face                                                            | David Hackworth          | 2023-08-10   | 2023-08-27 | ⭐️⭐️⭐️⭐️   |       834 |
@@ -111,7 +111,7 @@ Here's a visualization of this reading:
 | The Meritocracy Trap                                                  | Daniel Markovits         | 2019-09-23   | 2019-10-05 | ⭐️⭐️⭐️⭐️   |       290 |
 | Dignity                                                               | Chris Arnade             | 2019-09-10   | 2019-09-10 | ⭐️⭐️⭐️⭐️⭐️ |       280 |
 | A Man Called Ove                                                      | Fredrik Backman          | 2019-09-05   | 2019-09-08 | ⭐️⭐️⭐️⭐️   |       330 |
-| The Rational Optimist                                                 | Matt Ridley              | 2019-08-30   | 2019-09-03 | ⭐️⭐️⭐️⭐️   |       360 |
+| [The Rational Optimist](/posts/the-rational-optimist)                 | Matt Ridley              | 2019-08-30   | 2019-09-03 | ⭐️⭐️⭐️⭐️   |       360 |
 | One Hundred Years of Solitude                                         | Gabriel Garcia Marquez   | 2019-08-22   | 2019-08-30 | ⭐️⭐️⭐️⭐️⭐️ |       417 |
 | Meditations                                                           | Marcus Aurelius          | 2019-08-18   | 2019-08-21 | ⭐️⭐️⭐️⭐️⭐️ |       170 |
 | Catch-22                                                              | Joseph Heller            | 2019-08-11   | 2019-08-17 | ⭐️⭐️⭐️     |       455 |
