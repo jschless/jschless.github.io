@@ -12,6 +12,12 @@ Here's a visualization of this reading:
 
 | Title                                                                 | Author                   | Start Date   | End Date   | Score      |   # Pages |
 |:----------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|----------:|
+| Flowers for Algernon                                                  | Daniel Keyes             | 2024-02-04   | 2024-02-10 | ⭐️⭐️⭐️⭐️   |       311 |
+| Titan                                                                 | Ron Chernow              | 2023-12-29   | 2024-01-18 | ⭐️⭐️⭐️⭐️⭐️ |       800 |
+| Ender’s Game                                                          | Orson Scott Card         | 2024-01-13   | 2024-01-15 | ⭐️⭐️⭐️⭐️   |       250 |
+| Destiny and Power: The American Odyssey of George Herbert Walker Bush | John Meachem             | 2023-12-14   | 2023-12-28 | ⭐️⭐️⭐️⭐️   |       600 |
+| G-Man: J. Edgar Hoover and the Making of the American Century         | Beverly Gage             | 2023-10-22   | 2023-12-18 | ⭐️⭐️⭐️⭐️   |       837 |
+| The Magic Mountain                                                    | Thomas Mann              | 2023-09-04   | 2023-12-13 | ⭐️⭐️⭐️     |       650 |
 | The Project Phoenix                                                   | Gene Kim                 | 2023-11-04   | 2023-11-06 | ⭐️⭐️⭐️⭐️   |       300 |
 | [Truman](/posts/Truman)                                               | David McCullough         | 2023-09-22   | 2023-10-20 | ⭐️⭐️⭐️⭐️⭐️ |       991 |
 | The Poppy War                                                         | R.F. Kuang               | 2023-10-04   | 2023-10-06 | ⭐️⭐️⭐️     |       525 |
@@ -122,8 +128,8 @@ Here's a visualization of this reading:
 | Battle Hymn of the Tiger Mother                                       | Amy Chua                 | 2019-04-25   | 2019-04-29 | ⭐️⭐️⭐️⭐️   |       242 |
 | The Road to Serfdom                                                   | F.A. Hayek               | 2019-03-28   | 2019-04-25 | ⭐️⭐️⭐️⭐️   |       240 |
 | Homage to Catalonia                                                   | George Orwell            | 2019-04-10   | 2019-04-23 | ⭐️⭐️⭐️⭐️   |       175 |
-| Black Hearts                                                          | Jim Frederick            | 2019-03-25   | 2019-04-10 | ⭐️⭐️⭐️⭐️   |       363 |
 | Endurance                                                             | Alfred Lansing           | 2019-04-09   | 2019-04-10 | ⭐️⭐️⭐️⭐️⭐️ |       353 |
+| Black Hearts                                                          | Jim Frederick            | 2019-03-25   | 2019-04-10 | ⭐️⭐️⭐️⭐️   |       363 |
 | The Diversity Delusion                                                | Amy McDonald             | 2019-03-25   | 2019-04-01 | ⭐️⭐️⭐️     |       300 |
 | One Day in the Life of Ivan Denisovich                                | Alexander Solzhenitsyn   | 2019-03-21   | 2019-03-28 | ⭐️⭐️⭐️⭐️   |       178 |
 | Like War                                                              | Emerson T. Brooking      | 2019-03-03   | 2019-03-21 | ⭐️⭐️       |       273 |
