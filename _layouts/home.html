@@ -4,68 +4,50 @@ layout: page
 
 {{ content }}
 
+<h1 id="background">Technical Posts</h1>
 <ul class="posts">
-	{%- for post in site.posts offset: 0 limit: 5 -%}
-	<li>
-		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<div class="post-meta">
-			<a class="post-link" href="{{ post.url | relative_url }}">
-				<h2 class="post-title">{{ post.title | escape }}</h2>
-			</a>
-			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-		</div>
-		<div class="post">
-			{%- if site.show_excerpts -%}
-			{{ post.excerpt }}
-			{%- endif -%}
-		</div>
-	</li>
-	{%- endfor -%}
+  {%- assign count = 0 -%}
+  {%- for post in site.posts -%}
+    {%- if count < 3 and post.categories contains 'mathblog' -%}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <li>
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h2 class="post-title">{{ post.title | escape }}</h2>
+          </a>
+          <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
+        </div>
+        <div class="post">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </div>
+      </li>
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
 </ul>
 
-
-<!--
-
-<h1 id="background">Musings</h1>
+<h1 id="background">Other Writing</h1>
 <ul class="posts">
-  {%- for post in site.posts offset: 0 limit: 10 -%}
-  {% if post.categories contains 'generalblog' %}
-	<li>
-		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<div class="post-meta">
-			<a class="post-link" href="{{ post.url | relative_url }}">
-				<h2 class="post-title">{{ post.title | escape }}</h2>
-			</a>
-			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-		</div>
-		<div class="post">
-		  {%- if site.show_excerpts -%}
-			{{ post.excerpt }}
-			{%- endif -%}
-		</div>
-	</li>
-	{% endif %}
-	{%- endfor -%}
+  {%- assign count = 0 -%}
+  {%- for post in site.posts -%}
+    {%- unless count >= 3 or post.categories contains 'mathblog' -%}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <li>
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h2 class="post-title">{{ post.title | escape }}</h2>
+          </a>
+          <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
+        </div>
+        <div class="post">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </div>
+      </li>
+      {%- assign count = count | plus: 1 -%}
+    {%- endunless -%}
+  {%- endfor -%}
 </ul>
-
-<h1 id="background">Book Thoughts</h1>
-<ul class="posts">
-  {%- for post in site.posts offset: 0 limit: 10 -%}
-  {% if post.categories contains 'bookpost' %}
-	<li>
-		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<div class="post-meta">
-			<a class="post-link" href="{{ post.url | relative_url }}">
-				<h2 class="post-title">{{ post.title | escape }}</h2>
-			</a>
-			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-		</div>
-		<div class="post">
-		  {%- if site.show_excerpts -%}
-			{{ post.excerpt }}
-			{%- endif -%}
-		</div>
-	</li>
-	{% endif %}
-	{%- endfor -%}
-</ul> -->
