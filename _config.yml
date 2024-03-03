@@ -27,8 +27,6 @@ texture:
       url: "/mathblog"
     - title: Reading 
       url: "/books"
-    - title: Presidents
-      url : "/pres_bios"
 
   # generate social links in footer
   social_links:
