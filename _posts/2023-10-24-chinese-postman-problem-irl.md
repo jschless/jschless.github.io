@@ -95,7 +95,8 @@ mates = nx.algorithms.max_weight_matching(odd_edge_graph, maxcardinality=True)
 
 ```python
 for (v1, v2) in list(mates):
-    eulerian_ug.add_edge(v1, v2, length=dist_mat[(v1, v2)])```
+    eulerian_ug.add_edge(v1, v2, length=dist_mat[(v1, v2)])
+```
 
 Here's our roadmap after adding in the imaginary roads:
 
