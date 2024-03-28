@@ -1,4 +1,4 @@
-#title: Meandering Dilettante
+title: Joe Schlessinger
 author: Joe Schlessinger
 email: joe.c.schlessinger@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Joe Schlessinger
-  tagline: Meandering dilettante.
+#  tagline: Meandering dilettante.
   date_format: "%b %-d, %Y"
   style: blue
   showNav: true
