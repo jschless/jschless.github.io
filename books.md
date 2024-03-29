@@ -12,6 +12,9 @@ Here's a visualization of this reading:
 
 | Title                                                                 | Author                   | Start Date   | End Date   | Score      |   # Pages |
 |:----------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|----------:|
+| The Path Between the Seas                                             | David McCullough         | 2024-03-19   | 2024-03-25 | ⭐️⭐️⭐️⭐️⭐️ |       350 |
+| Vanderbilt: The Rise and Fall of an American Dynasty                  | Anderson Cooper          | 2024-03-11   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |       330 |
+| The House of Morgan                                                   | Ron Chernow              | 2024-01-21   | 2024-02-23 | ⭐️⭐️⭐️     |       800 |
 | Flowers for Algernon                                                  | Daniel Keyes             | 2024-02-04   | 2024-02-10 | ⭐️⭐️⭐️⭐️   |       311 |
 | Titan                                                                 | Ron Chernow              | 2023-12-29   | 2024-01-18 | ⭐️⭐️⭐️⭐️⭐️ |       800 |
 | Ender’s Game                                                          | Orson Scott Card         | 2024-01-13   | 2024-01-15 | ⭐️⭐️⭐️⭐️   |       250 |
