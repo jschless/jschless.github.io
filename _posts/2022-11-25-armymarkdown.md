@@ -12,7 +12,7 @@ date: 2022-11-25 21:03:36 +0530
 
 The Army runs on memorandums. Appointment orders, FRAGORDs, etc. They are all written in accordance with AR 25-50: Managing Correspondance, which includes a set of specific instructions on formatting. These instructions can be tedious to follow. When editing memos in Microsoft Word, its easy to add an extra tab or return and thereby create a formatting error. When you're writing a memo, you should be worried about effectively communicating, *not* whether your fat finger has introduced an embarassing error.
 
-I created [Armymarkdown](https://armymarkdown.herokuapp.com) to alleviate these issues. Armymarkdown compiles memos and guarantees the correct format every time. It was designed to be (hopefully) easy to use.
+I created [Armymarkdown](https://armymemomaker.com) to alleviate these issues. Armymarkdown compiles memos and guarantees the correct format every time. It was designed to be (hopefully) easy to use.
 
 # Usage
 At the top of the text box, you simply fill out the details for your organization, your name and rank, etc.
