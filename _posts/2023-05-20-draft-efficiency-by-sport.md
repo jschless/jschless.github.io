@@ -21,10 +21,10 @@ The difficult thing here is to standardize across sports. How do you measure an 
 
 | League  | Outcome  | Data Date Range|
 |---------|----------| ---|
-| NBA     | # All-NBA Seasons |1947-Present|
-| NFL     | # All-Pro Seasons |1970 - 2016|
-| MLB     | # WAR > 4 Seasons |1965 - 2019|
-| NHL     | # All-Star Seasons  |1963 - 2022|
+| NBA     | # All-NBA Seasons |1947 -- Present|
+| NFL     | # All-Pro Seasons |1970 -- 2016|
+| MLB     | # WAR > 4 Seasons |1965 -- 2019|
+| NHL     | # All-Star Seasons  |1963 -- 2022|
 
 There are a number of criticisms I anticipate with these metrics, which I will respond to in-line:
 
