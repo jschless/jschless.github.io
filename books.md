@@ -17,11 +17,14 @@ Here's a visualization of this reading:
 | Achilles, Aeneas, Rustam and the Koran                                | Bill Smyth               | 2024-05-22   | 2024-05-25 | ⭐️⭐️⭐️     |
 | Freedom’s Forge                                                       | Arthur Herman            | 2024-04-30   | 2024-05-17 | ⭐️⭐️⭐️⭐️⭐️ |
 | Fort Sumter to Perryville                                             | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
+| Journey to the End of the Night                                       | Louis-Ferdinand Celine   | 2024-03-08   | 2024-05-15 | ⭐️⭐️⭐️⭐️   |
 | The Tycoons                                                           | Charles Morris           | 2024-04-04   | 2024-04-22 | ⭐️⭐️⭐️     |
+| On the Soul                                                           | Plato                    | 2024-03-10   | 2024-04-19 | ⭐️⭐️⭐️     |
 | His Very Best — Jimmy Carter, A Life                                  | Jonathan Alter           | 2024-02-29   | 2024-04-18 | ⭐️⭐️⭐️     |
 | How to Win Friends and Influence People                               | Dale Carnegie            | 2024-04-10   | 2024-04-17 | ⭐️⭐️⭐️     |
 | The Path Between the Seas                                             | David McCullough         | 2024-03-19   | 2024-03-25 | ⭐️⭐️⭐️⭐️⭐️ |
 | Vanderbilt: The Rise and Fall of an American Dynasty                  | Anderson Cooper          | 2024-03-11   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
+| The Nineties                                                          | Chuck Klosterman         | 2024-02-26   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | The House of Morgan                                                   | Ron Chernow              | 2024-01-21   | 2024-02-23 | ⭐️⭐️⭐️     |
 | Flowers for Algernon                                                  | Daniel Keyes             | 2024-02-04   | 2024-02-10 | ⭐️⭐️⭐️⭐️   |
 | Titan                                                                 | Ron Chernow              | 2023-12-29   | 2024-01-18 | ⭐️⭐️⭐️⭐️⭐️ |
@@ -135,12 +138,14 @@ Here's a visualization of this reading:
 | Average is Over                                                       | Tyler Cowen              | 2019-08-05   | 2019-08-09 | ⭐️⭐️⭐️     |
 | Lolita                                                                | Vladimir Nabokov         | 2019-07-29   | 2019-08-01 | ⭐️⭐️⭐️⭐️⭐️ |
 | The 48 Laws of Power                                                  | Robert Greene            | 2019-07-20   | 2019-07-28 | ⭐️⭐️⭐️     |
+| Journey to the End of the Night                                       | Louis-Ferdinand Celine   | 2019-06-01   | 2019-06-28 | ⭐️⭐️⭐️⭐️   |
+| The Castle                                                            | Franz Kafka              | 2019-05-01   | 2019-05-08 | ⭐️⭐️       |
 | The Sun Also Rises                                                    | Ernest Hemingway         | 2019-04-29   | 2019-05-03 | ⭐️⭐️       |
 | Battle Hymn of the Tiger Mother                                       | Amy Chua                 | 2019-04-25   | 2019-04-29 | ⭐️⭐️⭐️⭐️   |
 | The Road to Serfdom                                                   | F.A. Hayek               | 2019-03-28   | 2019-04-25 | ⭐️⭐️⭐️⭐️   |
 | Homage to Catalonia                                                   | George Orwell            | 2019-04-10   | 2019-04-23 | ⭐️⭐️⭐️⭐️   |
-| Black Hearts                                                          | Jim Frederick            | 2019-03-25   | 2019-04-10 | ⭐️⭐️⭐️⭐️   |
 | Endurance                                                             | Alfred Lansing           | 2019-04-09   | 2019-04-10 | ⭐️⭐️⭐️⭐️⭐️ |
+| Black Hearts                                                          | Jim Frederick            | 2019-03-25   | 2019-04-10 | ⭐️⭐️⭐️⭐️   |
 | The Diversity Delusion                                                | Amy McDonald             | 2019-03-25   | 2019-04-01 | ⭐️⭐️⭐️     |
 | One Day in the Life of Ivan Denisovich                                | Alexander Solzhenitsyn   | 2019-03-21   | 2019-03-28 | ⭐️⭐️⭐️⭐️   |
 | Like War                                                              | Emerson T. Brooking      | 2019-03-03   | 2019-03-21 | ⭐️⭐️       |
