@@ -12,6 +12,9 @@ Here's a visualization of this reading:
 
 | Title                                                                 | Author                   | Start Date   | End Date   | Score      |
 |:----------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
+| Late Admissions                                                       | Glenn Loury              | 2024-06-20   | 2024-07-14 | ⭐️⭐️⭐️     |
+| Fredericksburg to Meridian                                            | Shelby Foote             | 2024-05-27   | 2024-06-29 | ⭐️⭐️⭐️⭐️⭐️ |
+| Achilles, Aeneas, Rustam and the Koran                                | Bill Smyth               | 2024-05-22   | 2024-05-25 | ⭐️⭐️⭐️     |
 | Freedom’s Forge                                                       | Arthur Herman            | 2024-04-30   | 2024-05-17 | ⭐️⭐️⭐️⭐️⭐️ |
 | Fort Sumter to Perryville                                             | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
 | The Tycoons                                                           | Charles Morris           | 2024-04-04   | 2024-04-22 | ⭐️⭐️⭐️     |
@@ -136,8 +139,8 @@ Here's a visualization of this reading:
 | Battle Hymn of the Tiger Mother                                       | Amy Chua                 | 2019-04-25   | 2019-04-29 | ⭐️⭐️⭐️⭐️   |
 | The Road to Serfdom                                                   | F.A. Hayek               | 2019-03-28   | 2019-04-25 | ⭐️⭐️⭐️⭐️   |
 | Homage to Catalonia                                                   | George Orwell            | 2019-04-10   | 2019-04-23 | ⭐️⭐️⭐️⭐️   |
-| Endurance                                                             | Alfred Lansing           | 2019-04-09   | 2019-04-10 | ⭐️⭐️⭐️⭐️⭐️ |
 | Black Hearts                                                          | Jim Frederick            | 2019-03-25   | 2019-04-10 | ⭐️⭐️⭐️⭐️   |
+| Endurance                                                             | Alfred Lansing           | 2019-04-09   | 2019-04-10 | ⭐️⭐️⭐️⭐️⭐️ |
 | The Diversity Delusion                                                | Amy McDonald             | 2019-03-25   | 2019-04-01 | ⭐️⭐️⭐️     |
 | One Day in the Life of Ivan Denisovich                                | Alexander Solzhenitsyn   | 2019-03-21   | 2019-03-28 | ⭐️⭐️⭐️⭐️   |
 | Like War                                                              | Emerson T. Brooking      | 2019-03-03   | 2019-03-21 | ⭐️⭐️       |
