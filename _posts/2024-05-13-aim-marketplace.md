@@ -4,7 +4,6 @@ category: mathblog
 title: "Modeling the Army Talent Alignment Process"
 date: 2024-07-29 21:03:36 +0530
 ---
-# Executive Summary
 As this is a lengthy and somewhat technical post, here's a summary. The AIM marketplace matches officers with their next assignment. After resume exchanges and interviews, officers and units each submit a ranking of their preferences. Then, human resources runs the Gale-Shapley algorithm to determine the matches. However, there is considerable scheming in the form of both parties revealing/lying about their preferences and units pressuring officers to rank them highly. I wanted to understand how varying degrees of scheming affected the optimality of the match and, in particular, whether rule breaking was incentivized under these conditions. I found that rule breaking is advantageous under almost all circumstance for both units and officers. Those that don't break the rules perform worse on average. The rule breaking allows both units and officers to outperform the Gale-Shapley baseline. There are a number of limitations to these findings based on the simplifications inherent in modeling a complicated, dynamic process.
 
 # Introduction
