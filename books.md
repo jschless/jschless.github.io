@@ -13,7 +13,7 @@ Here's a visualization of this reading:
 | Title                                                                     | Author                   | Start Date   | End Date   | Score      |
 |:--------------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
 | [American Pastoral](/posts/american-pastoral)                             | Phillip Roth             | 2024-08-19   | 2024-08-28 | ⭐️⭐️⭐️     |
-| Red River to Appomattox                                                   | Shelby Foote             | 2024-07-29   | 2024-08-17 | ⭐️⭐️⭐️⭐️⭐️ |
+| [Red River to Appomattox](/posts/red-river-to-appomattox)                 | Shelby Foote             | 2024-07-29   | 2024-08-17 | ⭐️⭐️⭐️⭐️⭐️ |
 | Late Admissions                                                           | Glenn Loury              | 2024-06-20   | 2024-07-14 | ⭐️⭐️⭐️     |
 | [Fredericksburg to Meridian](/posts/fredericksburg-to-meridian)           | Shelby Foote             | 2024-05-27   | 2024-06-29 | ⭐️⭐️⭐️⭐️⭐️ |
 | Achilles, Aeneas, Rustam and the Koran                                    | Bill Smyth               | 2024-05-22   | 2024-05-25 | ⭐️⭐️⭐️     |
