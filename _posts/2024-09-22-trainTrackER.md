@@ -2,7 +2,7 @@
 layout: post
 category: mathblog
 title: "TrainTrackER: Detecting Trains Passing Through Augusta, GA"
-date: 2024-09-22 21:03:36 +0530
+date: 2024-09-21 21:03:36 +0530
 ---
 I live next to a train. To be more specific, the desk I am currently typing on is approximately 200 ft from the tracks. I have become somewhat immune to the shockingly loud train horns that trumpet several times each day and literally shake my apartment. Still, I began wondering if there is any rhyme or reason to the train's schedule. 
 
