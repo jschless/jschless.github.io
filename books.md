@@ -12,6 +12,8 @@ Here's a visualization of this reading:
 
 | Title                                                                     | Author                   | Start Date   | End Date   | Score      |
 |:--------------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
+| Wool                                                                      | Hugh Howey               | 2024-09-24   | 2024-09-28 | ⭐️⭐️       |
+| Guns, Germs and Steel                                                     | Jared Diamond            | 2024-09-09   | 2024-09-26 | ⭐️⭐️⭐️⭐️   |
 | [American Pastoral](/posts/american-pastoral)                             | Phillip Roth             | 2024-08-19   | 2024-08-28 | ⭐️⭐️⭐️     |
 | [Red River to Appomattox](/posts/red-river-to-appomattox)                 | Shelby Foote             | 2024-07-29   | 2024-08-17 | ⭐️⭐️⭐️⭐️⭐️ |
 | Late Admissions                                                           | Glenn Loury              | 2024-06-20   | 2024-07-14 | ⭐️⭐️⭐️     |
@@ -25,8 +27,8 @@ Here's a visualization of this reading:
 | His Very Best — Jimmy Carter, A Life                                      | Jonathan Alter           | 2024-02-29   | 2024-04-18 | ⭐️⭐️⭐️     |
 | How to Win Friends and Influence People                                   | Dale Carnegie            | 2024-04-10   | 2024-04-17 | ⭐️⭐️⭐️     |
 | The Path Between the Seas                                                 | David McCullough         | 2024-03-19   | 2024-03-25 | ⭐️⭐️⭐️⭐️⭐️ |
-| The Nineties                                                              | Chuck Klosterman         | 2024-02-26   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | Vanderbilt: The Rise and Fall of an American Dynasty                      | Anderson Cooper          | 2024-03-11   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
+| The Nineties                                                              | Chuck Klosterman         | 2024-02-26   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | The House of Morgan                                                       | Ron Chernow              | 2024-01-21   | 2024-02-23 | ⭐️⭐️⭐️     |
 | Flowers for Algernon                                                      | Daniel Keyes             | 2024-02-04   | 2024-02-10 | ⭐️⭐️⭐️⭐️   |
 | Titan                                                                     | Ron Chernow              | 2023-12-29   | 2024-01-18 | ⭐️⭐️⭐️⭐️⭐️ |
