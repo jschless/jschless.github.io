@@ -12,6 +12,7 @@ Here's a visualization of this reading:
 
 | Title                                                                     | Author                   | Start Date   | End Date   | Score      |
 |:--------------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
+| The Education of Cyrus                                                    | Xenophon                 | 2024-09-09   | 2024-10-21 | ⭐️⭐️⭐️⭐️   |
 | Wool                                                                      | Hugh Howey               | 2024-09-24   | 2024-09-28 | ⭐️⭐️       |
 | Guns, Germs and Steel                                                     | Jared Diamond            | 2024-09-09   | 2024-09-26 | ⭐️⭐️⭐️⭐️   |
 | [American Pastoral](/posts/american-pastoral)                             | Phillip Roth             | 2024-08-19   | 2024-08-28 | ⭐️⭐️⭐️     |
@@ -19,16 +20,16 @@ Here's a visualization of this reading:
 | Late Admissions                                                           | Glenn Loury              | 2024-06-20   | 2024-07-14 | ⭐️⭐️⭐️     |
 | [Fredericksburg to Meridian](/posts/fredericksburg-to-meridian)           | Shelby Foote             | 2024-05-27   | 2024-06-29 | ⭐️⭐️⭐️⭐️⭐️ |
 | Achilles, Aeneas, Rustam and the Koran                                    | Bill Smyth               | 2024-05-22   | 2024-05-25 | ⭐️⭐️⭐️     |
-| Freedom’s Forge                                                           | Arthur Herman            | 2024-04-30   | 2024-05-17 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Fort Sumter to Perryville](/posts/civil-war-volume-1)                    | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
+| Freedom’s Forge                                                           | Arthur Herman            | 2024-04-30   | 2024-05-17 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Journey to the End of the Night](/posts/journey-to-the-end-of-the-night) | Louis-Ferdinand Celine   | 2024-03-08   | 2024-05-15 | ⭐️⭐️⭐️⭐️   |
 | The Tycoons                                                               | Charles Morris           | 2024-04-04   | 2024-04-22 | ⭐️⭐️⭐️     |
 | On the Soul                                                               | Plato                    | 2024-03-10   | 2024-04-19 | ⭐️⭐️⭐️     |
 | His Very Best — Jimmy Carter, A Life                                      | Jonathan Alter           | 2024-02-29   | 2024-04-18 | ⭐️⭐️⭐️     |
 | How to Win Friends and Influence People                                   | Dale Carnegie            | 2024-04-10   | 2024-04-17 | ⭐️⭐️⭐️     |
 | The Path Between the Seas                                                 | David McCullough         | 2024-03-19   | 2024-03-25 | ⭐️⭐️⭐️⭐️⭐️ |
-| Vanderbilt: The Rise and Fall of an American Dynasty                      | Anderson Cooper          | 2024-03-11   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | The Nineties                                                              | Chuck Klosterman         | 2024-02-26   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
+| Vanderbilt: The Rise and Fall of an American Dynasty                      | Anderson Cooper          | 2024-03-11   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | The House of Morgan                                                       | Ron Chernow              | 2024-01-21   | 2024-02-23 | ⭐️⭐️⭐️     |
 | Flowers for Algernon                                                      | Daniel Keyes             | 2024-02-04   | 2024-02-10 | ⭐️⭐️⭐️⭐️   |
 | Titan                                                                     | Ron Chernow              | 2023-12-29   | 2024-01-18 | ⭐️⭐️⭐️⭐️⭐️ |
