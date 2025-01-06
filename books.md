@@ -12,7 +12,9 @@ Here's a visualization of this reading:
 
 | Title                                                                     | Author                   | Start Date   | End Date   | Score      |
 |:--------------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
-| The Education of Cyrus                                                    | Xenophon                 | 2024-09-09   | 2024-10-21 | ⭐️⭐️⭐️⭐️   |
+| Project Hail Mary                                                         | Andy Weir                | 2024-12-28   | 2024-12-30 | ⭐️⭐️⭐️     |
+| Life and Fate                                                             | Vasily Grossman          | 2024-11-01   | 2024-12-19 | ⭐️⭐️⭐️⭐️⭐️ |
+| [The Education of Cyrus](/posts/cyropaedia-and-anabasis)                  | Xenophon                 | 2024-09-09   | 2024-10-21 | ⭐️⭐️⭐️⭐️   |
 | Wool                                                                      | Hugh Howey               | 2024-09-24   | 2024-09-28 | ⭐️⭐️       |
 | Guns, Germs and Steel                                                     | Jared Diamond            | 2024-09-09   | 2024-09-26 | ⭐️⭐️⭐️⭐️   |
 | [American Pastoral](/posts/american-pastoral)                             | Phillip Roth             | 2024-08-19   | 2024-08-28 | ⭐️⭐️⭐️     |
@@ -20,16 +22,16 @@ Here's a visualization of this reading:
 | Late Admissions                                                           | Glenn Loury              | 2024-06-20   | 2024-07-14 | ⭐️⭐️⭐️     |
 | [Fredericksburg to Meridian](/posts/fredericksburg-to-meridian)           | Shelby Foote             | 2024-05-27   | 2024-06-29 | ⭐️⭐️⭐️⭐️⭐️ |
 | Achilles, Aeneas, Rustam and the Koran                                    | Bill Smyth               | 2024-05-22   | 2024-05-25 | ⭐️⭐️⭐️     |
-| [Fort Sumter to Perryville](/posts/civil-war-volume-1)                    | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
 | Freedom’s Forge                                                           | Arthur Herman            | 2024-04-30   | 2024-05-17 | ⭐️⭐️⭐️⭐️⭐️ |
+| [Fort Sumter to Perryville](/posts/civil-war-volume-1)                    | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
 | [Journey to the End of the Night](/posts/journey-to-the-end-of-the-night) | Louis-Ferdinand Celine   | 2024-03-08   | 2024-05-15 | ⭐️⭐️⭐️⭐️   |
 | The Tycoons                                                               | Charles Morris           | 2024-04-04   | 2024-04-22 | ⭐️⭐️⭐️     |
 | On the Soul                                                               | Plato                    | 2024-03-10   | 2024-04-19 | ⭐️⭐️⭐️     |
 | His Very Best — Jimmy Carter, A Life                                      | Jonathan Alter           | 2024-02-29   | 2024-04-18 | ⭐️⭐️⭐️     |
 | How to Win Friends and Influence People                                   | Dale Carnegie            | 2024-04-10   | 2024-04-17 | ⭐️⭐️⭐️     |
 | The Path Between the Seas                                                 | David McCullough         | 2024-03-19   | 2024-03-25 | ⭐️⭐️⭐️⭐️⭐️ |
-| The Nineties                                                              | Chuck Klosterman         | 2024-02-26   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | Vanderbilt: The Rise and Fall of an American Dynasty                      | Anderson Cooper          | 2024-03-11   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
+| The Nineties                                                              | Chuck Klosterman         | 2024-02-26   | 2024-03-15 | ⭐️⭐️⭐️⭐️   |
 | The House of Morgan                                                       | Ron Chernow              | 2024-01-21   | 2024-02-23 | ⭐️⭐️⭐️     |
 | Flowers for Algernon                                                      | Daniel Keyes             | 2024-02-04   | 2024-02-10 | ⭐️⭐️⭐️⭐️   |
 | Titan                                                                     | Ron Chernow              | 2023-12-29   | 2024-01-18 | ⭐️⭐️⭐️⭐️⭐️ |
@@ -105,8 +107,8 @@ Here's a visualization of this reading:
 | Bad Religion                                                              | Ross Douthat             | 2020-06-02   | 2020-07-07 | ⭐️⭐️⭐️     |
 | The Innovator's Dilemma                                                   | Clayton Christensen      | 2020-06-13   | 2020-06-21 | ⭐️⭐️⭐️     |
 | The Art of Doing Science and Engineering                                  | Richard Hamming          | 2020-06-02   | 2020-06-08 | ⭐️⭐️⭐️     |
-| Range                                                                     | David Epstein            | 2020-05-26   | 2020-05-31 | ⭐️⭐️⭐️⭐️   |
 | The Power Broker                                                          | Robert Caro              | 2020-05-18   | 2020-05-31 | ⭐️⭐️⭐️⭐️⭐️ |
+| Range                                                                     | David Epstein            | 2020-05-26   | 2020-05-31 | ⭐️⭐️⭐️⭐️   |
 | The Last Man Who Knew Everything                                          | David Schwartz           | 2020-05-04   | 2020-05-22 | ⭐️⭐️⭐️     |
 | Beloved                                                                   | Toni Morrison            | 2020-05-13   | 2020-05-16 | ⭐️⭐️       |
 | The Idiot                                                                 | Fyodor Dostoevsky        | 2020-05-06   | 2020-05-12 | ⭐️⭐️⭐️     |
