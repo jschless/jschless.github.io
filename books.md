@@ -14,6 +14,7 @@ Here's a visualization of this reading:
 |:--------------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
 | Project Hail Mary                                                         | Andy Weir                | 2024-12-28   | 2024-12-30 | ⭐️⭐️⭐️     |
 | Life and Fate                                                             | Vasily Grossman          | 2024-11-01   | 2024-12-19 | ⭐️⭐️⭐️⭐️⭐️ |
+| [The Anabasis of Cyrus](/posts/cyropaedia-and-anabasis)                   | Xenophon                 | 2024-10-22   | 2024-12-12 | ⭐️⭐️⭐️⭐️   |
 | [The Education of Cyrus](/posts/cyropaedia-and-anabasis)                  | Xenophon                 | 2024-09-09   | 2024-10-21 | ⭐️⭐️⭐️⭐️   |
 | Wool                                                                      | Hugh Howey               | 2024-09-24   | 2024-09-28 | ⭐️⭐️       |
 | Guns, Germs and Steel                                                     | Jared Diamond            | 2024-09-09   | 2024-09-26 | ⭐️⭐️⭐️⭐️   |
