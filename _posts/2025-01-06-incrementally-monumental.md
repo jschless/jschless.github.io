@@ -14,6 +14,7 @@ My starting points are this [map](https://www.ncpc.gov/memorials/) and [catalog]
 | :------: | :-: |:---:|:----: |:----: |:----: | :---: | :---: |
 | [Khalil Gibran](#khalil-gibran) | 3100 Massachusetts Ave (by Naval Observatory) | 1991 |  Jan 4th, 2025 | Artist | 7 | 3 |
 | [Serenity](#serenity) | Meridian Hill Park | 1925 | Jan 11th, 2025 | Military | 2 | 8 |
+| [President James Buchanan](#president-james-buchanan) | Meridian Hill Park | 1918 | Jan 11th, 2025 | Political | 6 | 6 |
 
 
 
@@ -29,7 +30,7 @@ Who was Khalil Gibran? I certainly didn't know Gibran was born in present-day Le
 
 ![](/assets/monuments/khalil-gibran-chart.png)
 
-The interesting part of this monument is its provenance. Why build a monument for the centennial of an artist of middling fame? The congressional resolution to build this monument started in [May 1984](https://catalog.archives.gov/id/280992990). Notably, it was completely privately funded; the Khalil Gibran Centennial foundation raises $1 million in donations. The impetus for this monument appears to be the [1984 Beirut barracks bombings](https://en.wikipedia.org/wiki/1983_Beirut_barracks_bombings), wherein 241 Americans were killed. The originator, Sheryl Ameen, said about the monument: ["it's important that, symbolically, there be a peaceful Lebanon to balance the present reality of a war-torn Lebanon."](https://archive.aramcoworld.com/issue/199002/a.garden.for.gibran.htm) 
+The interesting part of this monument is its provenance. Why build a monument for the centennial of an artist of middling fame? The congressional resolution to build this monument started in [May 1984](https://catalog.archives.gov/id/280992990). Notably, it was completely privately funded; the Khalil Gibran Centennial foundation raises \$1 million in donations. The impetus for this monument appears to be the [1984 Beirut barracks bombings](https://en.wikipedia.org/wiki/1983_Beirut_barracks_bombings), wherein 241 Americans were killed. The originator, Sheryl Ameen, said about the monument: ["it's important that, symbolically, there be a peaceful Lebanon to balance the present reality of a war-torn Lebanon."](https://archive.aramcoworld.com/issue/199002/a.garden.for.gibran.htm) 
 
 So, it was less about him and more about his Arab-American status. While the US had largely moved on from Lebanese conflict by the time of its dedication in May 1991, there was a new Middle Eastern country to fret about (Iraq). The memorial could function like something of a peace offering to Arab-Americans as it celebrated the legacy of a great poet who was nothing like Saddam Hussein. Note the message of one of the selected quotes:
 
@@ -65,5 +66,47 @@ While I have no reason to doubt that Scheutze was a capable naval officer and a 
 My other theory is more fanciful, and would have required great foresight on behalf of Deering. 
 Perhaps Deering knew it was going to be vandalized by the community and neglected over time. Maybe it's a statue and a kind of performance art as well: serenity, a state where one is left alone, cannot survive being left alone. It takes intervention and proactivity to maintain serenity. Otherwise, outside forces (vandals, time, animals, weather, etc.) will disturb it. While the circumstances of the original dedication suggest a lack intentionality and favors a more serendipitous interpretation, I like option two. [And so it goes with God.](https://en.wikipedia.org/wiki/Life_of_Pi)
 
+## President James Buchanan
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="/assets/monuments/james-buchanan.jpg" alt="William Henry Schuetze" width="500" />
+      <div>My shitty, snowy picture</div>
+    </td>
+    <td style="text-align: center;">
+      <img src="/assets/monuments/james-buchanan2.png" alt="William Henry Schuetze" width="500" />
+      <div>Google review that validates this project and confirms people really do care about monuments.</div>
+    </td>
+  </tr>
+</table>
 
+According to this monument, James Buchanan was "the incorruptible statesman whose walk was upon the mountain ranges of the law." But I suspect Buchanan is one of the last known presidents in American history. He is overshadowed by and often blamed for the Civil War. Imagine being the president before Lincoln? That's a tough break as far as legacy is concerned. I will not deign to give a presidential biography here, but this is a magnificent sculpture. He sits high above onlookers, like a miniature Lincoln Memorial. He's flanked by statues depicting law and democracy. It's quite pretty and kitty corner of the reflecting pool. 
+
+This monument is interesting for its controversy. See, the Google maps reviewer was onto something! Buchanan was a bachelor for life, but his niece, Harriet Lane, left \$100,000 for a federal memorial to her uncle. The government had 15 years from the time of her death in 1903 to erect the monument lest the money be returned to her estate. But many members of Congress were opposed to a monument. [Senator Irvine Lenroot wrote "the best thing we can do for Mr. Buchanan is to forget him."](https://www.google.com/books/edition/Sixteenth_Street_NW/8odbEAAAQBAJ?hl=en&gbpv=1&dq=James+Buchanan+%22meridian+hill%22&pg=PA108&printsec=frontcover) Ouch. Senator Henry Cabot Lodge took issue with ["[erecting] a statue to the only President upon whom rests the shadow of disloyalty in the great office to which he was elected."](http://dcmemorialist.com/james-buchanan/) It didn't help that there was a push to put the Lincoln Memorial in Meridian Hill park, but instead they got Buchanan. The monument was approved in the nick of time in 1918, and took over a decade to complete.
+
+Among the cast of characters to be memorialized in the nation's capital, it is interesting that notoriety makes it harder than obscurity. Khalil Gibran and William Schuetze pass without controversy, but James Buchanan, who was a president, has to fight tooth and nail for his statue. Key to all three, however, is private funding. It must take enormous popularity to get a publicly funded monument! There's also an element of priority in the monument decisions. During the controversy, [Senator Lodge remarked that it makes no sense to memorialize Buchanan, when Jefferson, Madison, Hamilton, etc. do not have monuments.](https://boundarystones.weta.org/2020/03/30/buchanan-statue-debate-memorial-fifteen-years-making) That may be so, but they don't have exploding \$100,000 funds to construct their monuments. 
+
+Now, it seems that the public mostly accepts the monument. There are occasional [blog posts](https://hwbrands.substack.com/p/spare-a-thought-for-james-buchanan) ([exceptionally cranky ones](https://www.matthew-landis.com/new-blog/2015/10/4/hiding-but-still-honoring-awful-presidents-the-james-buchanan-memorial)) and news articles the monument's litigious history, but by and large it is accepted. During the great monument re-examination of the late 2010s, there appears to have been no concern over Buchanan and his connections to slavery.
+
+<!--![Meridian Hill Compass Thing](/assets/monuments/meridian-hill.jpg)
+a six-foot high bronze armillary sphere added in 1932 https://catalog.archives.gov/id/117691843
+-->
+
+<!--## Dante
+![Dante](/assets/monuments/dante.jpg)-->
+
+<!--- 
+## Joan of Arc 
+![Joan of Arc](/assets/monuments/joan-of-arc.jpg)
+
+
+## Francis Asbury 
+![Francis Asbury](/assets/monuments/francis-asbury.jpg)
+
+## Guglielmo Marconi
+![Guglielmo Marconi](/assets/monuments/marconi.jpg)
+
+## Cardinal James Gibbons
+![Cardinal James Gibbons](/assets/monuments/james-gibbons.jpg)
+--->
 
