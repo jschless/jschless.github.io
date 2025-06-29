@@ -13,6 +13,7 @@ Here's a visualization of this reading:
 | Title                                                                          | Author                   | Start Date   | End Date   | Score      |
 |:-------------------------------------------------------------------------------|:-------------------------|:-------------|:-----------|:-----------|
 | The Wright Brothers                                                            | David McCullough         | 2025-06-21   | 2025-06-27 | ⭐️⭐️⭐️     |
+| The Day of Battle                                                              | Rick Atkinson            | 2025-04-07   | 2025-05-04 | ⭐️⭐️⭐️⭐️   |
 | Unit X: How the Pentagon and Silicon Valley are Transforming the Future of War | Raj Shah                 | 2025-04-14   | 2025-04-27 | ⭐️⭐️⭐️     |
 | An Army at Dawn                                                                | Rick Atkinson            | 2025-03-06   | 2025-04-05 | ⭐️⭐️⭐️⭐️   |
 | The Odyssey                                                                    | Homer                    | 2025-03-06   | 2025-04-03 | ⭐️⭐️⭐️⭐️   |
@@ -30,8 +31,8 @@ Here's a visualization of this reading:
 | Late Admissions                                                                | Glenn Loury              | 2024-06-20   | 2024-07-14 | ⭐️⭐️⭐️     |
 | [Fredericksburg to Meridian](/posts/fredericksburg-to-meridian)                | Shelby Foote             | 2024-05-27   | 2024-06-29 | ⭐️⭐️⭐️⭐️⭐️ |
 | Achilles, Aeneas, Rustam and the Koran                                         | Bill Smyth               | 2024-05-22   | 2024-05-25 | ⭐️⭐️⭐️     |
-| [Fort Sumter to Perryville](/posts/civil-war-volume-1)                         | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
 | Freedom’s Forge                                                                | Arthur Herman            | 2024-04-30   | 2024-05-17 | ⭐️⭐️⭐️⭐️⭐️ |
+| [Fort Sumter to Perryville](/posts/civil-war-volume-1)                         | Shelby Foote             | 2024-04-21   | 2024-05-17 | ⭐️⭐️⭐️⭐️   |
 | [Journey to the End of the Night](/posts/journey-to-the-end-of-the-night)      | Louis-Ferdinand Celine   | 2024-03-08   | 2024-05-15 | ⭐️⭐️⭐️⭐️   |
 | The Tycoons                                                                    | Charles Morris           | 2024-04-04   | 2024-04-22 | ⭐️⭐️⭐️     |
 | On the Soul                                                                    | Plato                    | 2024-03-10   | 2024-04-19 | ⭐️⭐️⭐️     |
