@@ -12,6 +12,9 @@ Here's a visualization of this reading:
 
 | Title                                                                          | Author                   | Start Date         | End Date           | Score      |
 |:-------------------------------------------------------------------------------|:-------------------------|:-------------------|:-------------------|:-----------|
+| The Best and the Brightest                                                     | David Halberstam         | July 19, 2025      | August 23, 2025    | ⭐️⭐️⭐️⭐️⭐️ |
+| David Copperfield                                                              | Charles Dickens          | June 05, 2025      | August 21, 2025    | ⭐️⭐️⭐️     |
+| The Guns at Last Light                                                         | Rick Atkinson            | May 07, 2025       | July 02, 2025      | ⭐️⭐️⭐️⭐️   |
 | The Wright Brothers                                                            | David McCullough         | June 21, 2025      | June 27, 2025      | ⭐️⭐️⭐️     |
 | The Day of Battle                                                              | Rick Atkinson            | April 07, 2025     | May 04, 2025       | ⭐️⭐️⭐️⭐️   |
 | Unit X: How the Pentagon and Silicon Valley are Transforming the Future of War | Raj Shah                 | April 14, 2025     | April 27, 2025     | ⭐️⭐️⭐️     |
@@ -116,8 +119,8 @@ Here's a visualization of this reading:
 | Bad Religion                                                                   | Ross Douthat             | June 02, 2020      | July 07, 2020      | ⭐️⭐️⭐️     |
 | The Innovator's Dilemma                                                        | Clayton Christensen      | June 13, 2020      | June 21, 2020      | ⭐️⭐️⭐️     |
 | The Art of Doing Science and Engineering                                       | Richard Hamming          | June 02, 2020      | June 08, 2020      | ⭐️⭐️⭐️     |
-| The Power Broker                                                               | Robert Caro              | May 18, 2020       | May 31, 2020       | ⭐️⭐️⭐️⭐️⭐️ |
 | Range                                                                          | David Epstein            | May 26, 2020       | May 31, 2020       | ⭐️⭐️⭐️⭐️   |
+| The Power Broker                                                               | Robert Caro              | May 18, 2020       | May 31, 2020       | ⭐️⭐️⭐️⭐️⭐️ |
 | The Last Man Who Knew Everything                                               | David Schwartz           | May 04, 2020       | May 22, 2020       | ⭐️⭐️⭐️     |
 | Beloved                                                                        | Toni Morrison            | May 13, 2020       | May 16, 2020       | ⭐️⭐️       |
 | The Idiot                                                                      | Fyodor Dostoevsky        | May 06, 2020       | May 12, 2020       | ⭐️⭐️⭐️     |
