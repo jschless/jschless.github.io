@@ -1,0 +1,56 @@
+---
+layout: single
+author_profile: true
+classes: wide
+---
+
+<div class="page__content">
+  <h2>About Me</h2>
+
+  <p>I'm Joe Schlessinger, currently based in Washington, DC. This blog is my space for sharing thoughts on books, technology, data analysis, and life observations. The name "Meandering Dilettante" captures my approach to learning and writing—following curiosity wherever it leads, dabbling in various subjects with genuine interest if not always expertise.</p>
+
+  <p>You'll find book reviews and literary reflections, technical projects and data analysis, and personal essays on everything from travel observations to social commentary. The common thread is an attempt to think clearly and write honestly about whatever catches my attention.</p>
+
+  <hr>
+
+  <h2>Featured Posts</h2>
+
+  <div class="entries-list">
+    {% assign featured_posts = '' | split: '' %}
+
+    {% comment %}Add specific featured posts by filename{% endcomment %}
+    {% for post in site.books %}
+      {% if post.path contains '2025-01-03-cyropaedia-and-anabasis' %}
+        {% assign featured_posts = featured_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+
+    {% for post in site.essays %}
+      {% if post.path contains '2025-01-25-akerlof-market-for-singles' %}
+        {% assign featured_posts = featured_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+
+    {% for post in site.projects %}
+      {% if post.path contains '2023-10-24-chinese-postman-problem-irl' %}
+        {% assign featured_posts = featured_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+
+    {% for post in site.projects %}
+      {% if post.path contains '2023-01-16-wikipeople' %}
+        {% assign featured_posts = featured_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+
+    {% for post in site.projects %}
+      {% if post.path contains '2024-09-22-trainTrackER' %}
+        {% assign featured_posts = featured_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+
+    {% for post in featured_posts %}
+      {% include archive-single.html type='grid' %}
+    {% endfor %}
+  </div>
+</div>

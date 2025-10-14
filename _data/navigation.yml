@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Essays"
+    url: /essays/
+  - title: "Book Reviews"
+    url: /book-reviews/
+  - title: "Reading Log"
+    url: /reading-log/
