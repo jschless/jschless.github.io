@@ -1,5 +1,0 @@
----
-layout: mathpost
----
-
-# Coding Projects

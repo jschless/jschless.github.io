@@ -1,48 +1,163 @@
-title: Joe Schlessinger
-author: Joe Schlessinger
+# Minimal Mistakes Theme Configuration
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "sunrise"
+
+# Site Settings
+title: "Meandering Dilettante"
 email: joe.c.schlessinger@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
+description: >-
   Mediocre thoughts and code, but it's all I've got.
-show_excerpts: true # set to true to show excerpts on the homepage
+url: "https://jschless.github.io"
+baseurl: ""
+repository: "jschless/jschless.github.io"
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
+# Site Author
+author:
+  name: "Joe Schlessinger"
+  avatar: "/assets/images/bio-photo.jpg" # placeholder for profile picture
+  bio: "Mediocre thoughts and code, but it's all I've got."
+  location: "Washington, DC"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:joe.c.schlessinger@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jschless"
 
-permalink: /posts/:title/
-texture:
-  title: Joe Schlessinger
-#  tagline: Meandering dilettante.
-  date_format: "%b %-d, %Y"
-  style: blue
-  showNav: true
-  showPicker: false
-  navigation:
-    - title: Home
-      url: "/"
-    - title: Writing
-      url: "/blog"
-    - title: Projects
-      url: "/mathblog"
-    - title: Reading 
-      url: "/books"
-
-  # generate social links in footer
-  social_links:
-#    twitter: joeschless
-    github:  jschless 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-#  - about.md
-# - resume.html
-
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jschless"
 
 # Build settings
-# theme: texture
+markdown: kramdown
+# Outputting
+permalink: /posts/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+include:
+  - _pages
+
+# Collections
+collections:
+  books:
+    output: true
+    permalink: /:collection/:name/
+  essays:
+    output: true
+    permalink: /:collection/:name/
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
 plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      comments: # true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      sidebar:
+        nav: "books"
+  # _essays
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      sidebar:
+        nav: "essays"
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      sidebar:
+        nav: "projects"

@@ -1,4 +1,0 @@
----
-layout: generalblog
----
-# Miscellaneous Writing
