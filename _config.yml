@@ -5,8 +5,7 @@ minimal_mistakes_skin: "sunrise"
 # Site Settings
 title: "Meandering Dilettante"
 email: joe.c.schlessinger@gmail.com
-description: >-
-  Mediocre thoughts and code, but it's all I've got.
+
 url: "https://jschless.github.io"
 baseurl: ""
 repository: "jschless/jschless.github.io"
@@ -14,8 +13,8 @@ repository: "jschless/jschless.github.io"
 # Site Author
 author:
   name: "Joe Schlessinger"
-  avatar: "/assets/images/bio-photo.jpg" # placeholder for profile picture
-  bio: "Mediocre thoughts and code, but it's all I've got."
+  # avatar: "/assets/images/bio-photo.jpg" # placeholder for profile picture
+  # bio: "Professional dabbler, Mediocre thoughts and code, but it's all I've got."
   location: "Washington, DC"
   links:
     - label: "Email"
