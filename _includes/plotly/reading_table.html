@@ -1,0 +1,1317 @@
+
+<!-- DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
+
+<style>
+    #booksTable {
+        width: 100% !important;
+        margin-top: 20px;
+    }
+    #booksTable th {
+        background-color: #667eea;
+        color: white;
+        font-weight: 600;
+        padding: 12px;
+    }
+    #booksTable td {
+        padding: 10px;
+    }
+    #booksTable tbody tr:hover {
+        background-color: #f7fafc;
+    }
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_filter,
+    .dataTables_wrapper .dataTables_info,
+    .dataTables_wrapper .dataTables_paginate {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .dataTables_wrapper .dataTables_filter input {
+        border: 1px solid #cbd5e0;
+        border-radius: 4px;
+        padding: 5px 10px;
+    }
+</style>
+
+<table id="booksTable" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Score</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>The Crucible</td>
+            <td>Arthur Miller</td>
+            <td data-order="2025-10-05">October 05, 2025</td>
+            <td data-order="2025-10-12">October 12, 2025</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Hero of the Empire</td>
+            <td>Candice Millard</td>
+            <td data-order="2025-09-13">September 13, 2025</td>
+            <td data-order="2025-09-28">September 28, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Best and the Brightest</td>
+            <td>David Halberstam</td>
+            <td data-order="2025-07-19">July 19, 2025</td>
+            <td data-order="2025-08-23">August 23, 2025</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>David Copperfield</td>
+            <td>Charles Dickens</td>
+            <td data-order="2025-06-05">June 05, 2025</td>
+            <td data-order="2025-08-21">August 21, 2025</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Guns at Last Light</td>
+            <td>Rick Atkinson</td>
+            <td data-order="2025-05-07">May 07, 2025</td>
+            <td data-order="2025-07-02">July 02, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Wright Brothers</td>
+            <td>David McCullough</td>
+            <td data-order="2025-06-21">June 21, 2025</td>
+            <td data-order="2025-06-27">June 27, 2025</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Day of Battle</td>
+            <td>Rick Atkinson</td>
+            <td data-order="2025-04-07">April 07, 2025</td>
+            <td data-order="2025-05-04">May 04, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Unit X: How the Pentagon and Silicon Valley are Transforming the Future of War</td>
+            <td>Raj Shah</td>
+            <td data-order="2025-04-14">April 14, 2025</td>
+            <td data-order="2025-04-27">April 27, 2025</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>An Army at Dawn</td>
+            <td>Rick Atkinson</td>
+            <td data-order="2025-03-06">March 06, 2025</td>
+            <td data-order="2025-04-05">April 05, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Odyssey</td>
+            <td>Homer</td>
+            <td data-order="2025-03-06">March 06, 2025</td>
+            <td data-order="2025-04-03">April 03, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Seeing Like a State</td>
+            <td>James Scott</td>
+            <td data-order="2025-01-17">January 17, 2025</td>
+            <td data-order="2025-03-01">March 01, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Decision in Normandy</td>
+            <td>Carlo D'Este</td>
+            <td data-order="2025-01-26">January 26, 2025</td>
+            <td data-order="2025-02-23">February 23, 2025</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Bleak House</td>
+            <td>Charles Dickens</td>
+            <td data-order="2025-01-02">January 02, 2025</td>
+            <td data-order="2025-01-21">January 21, 2025</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Project Hail Mary</td>
+            <td>Andy Weir</td>
+            <td data-order="2024-12-28">December 28, 2024</td>
+            <td data-order="2024-12-30">December 30, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Life and Fate</td>
+            <td>Vasily Grossman</td>
+            <td data-order="2024-11-01">November 01, 2024</td>
+            <td data-order="2024-12-19">December 19, 2024</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2025-01-03-cyropaedia-and-anabasis">The Anabasis of Cyrus</a></td>
+            <td>Xenophon</td>
+            <td data-order="2024-10-22">October 22, 2024</td>
+            <td data-order="2024-12-12">December 12, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2025-01-03-cyropaedia-and-anabasis">The Education of Cyrus</a></td>
+            <td>Xenophon</td>
+            <td data-order="2024-09-09">September 09, 2024</td>
+            <td data-order="2024-10-21">October 21, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Wool</td>
+            <td>Hugh Howey</td>
+            <td data-order="2024-09-24">September 24, 2024</td>
+            <td data-order="2024-09-28">September 28, 2024</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Guns, Germs and Steel</td>
+            <td>Jared Diamond</td>
+            <td data-order="2024-09-09">September 09, 2024</td>
+            <td data-order="2024-09-26">September 26, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2024-09-04-american-pastoral">American Pastoral</a></td>
+            <td>Phillip Roth</td>
+            <td data-order="2024-08-19">August 19, 2024</td>
+            <td data-order="2024-08-28">August 28, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2024-08-30-red-river-to-appomattox">Red River to Appomattox</a></td>
+            <td>Shelby Foote</td>
+            <td data-order="2024-07-29">July 29, 2024</td>
+            <td data-order="2024-08-17">August 17, 2024</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Late Admissions</td>
+            <td>Glenn Loury</td>
+            <td data-order="2024-06-20">June 20, 2024</td>
+            <td data-order="2024-07-14">July 14, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2024-06-30-fredericksburg-to-meridian">Fredericksburg to Meridian</a></td>
+            <td>Shelby Foote</td>
+            <td data-order="2024-05-27">May 27, 2024</td>
+            <td data-order="2024-06-29">June 29, 2024</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Achilles, Aeneas, Rustam and the Koran</td>
+            <td>Bill Smyth</td>
+            <td data-order="2024-05-22">May 22, 2024</td>
+            <td data-order="2024-05-25">May 25, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2024-06-10-civil-war-volume-1">Fort Sumter to Perryville</a></td>
+            <td>Shelby Foote</td>
+            <td data-order="2024-04-21">April 21, 2024</td>
+            <td data-order="2024-05-17">May 17, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Freedom’s Forge</td>
+            <td>Arthur Herman</td>
+            <td data-order="2024-04-30">April 30, 2024</td>
+            <td data-order="2024-05-17">May 17, 2024</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2024-07-26-journey-to-the-end-of-the-night">Journey to the End of the Night</a></td>
+            <td>Louis-Ferdinand Celine</td>
+            <td data-order="2024-03-08">March 08, 2024</td>
+            <td data-order="2024-05-15">May 15, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Tycoons</td>
+            <td>Charles Morris</td>
+            <td data-order="2024-04-04">April 04, 2024</td>
+            <td data-order="2024-04-22">April 22, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>On the Soul</td>
+            <td>Plato</td>
+            <td data-order="2024-03-10">March 10, 2024</td>
+            <td data-order="2024-04-19">April 19, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>His Very Best — Jimmy Carter, A Life</td>
+            <td>Jonathan Alter</td>
+            <td data-order="2024-02-29">February 29, 2024</td>
+            <td data-order="2024-04-18">April 18, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>How to Win Friends and Influence People</td>
+            <td>Dale Carnegie</td>
+            <td data-order="2024-04-10">April 10, 2024</td>
+            <td data-order="2024-04-17">April 17, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Path Between the Seas</td>
+            <td>David McCullough</td>
+            <td data-order="2024-03-19">March 19, 2024</td>
+            <td data-order="2024-03-25">March 25, 2024</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Nineties</td>
+            <td>Chuck Klosterman</td>
+            <td data-order="2024-02-26">February 26, 2024</td>
+            <td data-order="2024-03-15">March 15, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Vanderbilt: The Rise and Fall of an American Dynasty</td>
+            <td>Anderson Cooper</td>
+            <td data-order="2024-03-11">March 11, 2024</td>
+            <td data-order="2024-03-15">March 15, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The House of Morgan</td>
+            <td>Ron Chernow</td>
+            <td data-order="2024-01-21">January 21, 2024</td>
+            <td data-order="2024-02-23">February 23, 2024</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Flowers for Algernon</td>
+            <td>Daniel Keyes</td>
+            <td data-order="2024-02-04">February 04, 2024</td>
+            <td data-order="2024-02-10">February 10, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Titan</td>
+            <td>Ron Chernow</td>
+            <td data-order="2023-12-29">December 29, 2023</td>
+            <td data-order="2024-01-18">January 18, 2024</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Ender’s Game</td>
+            <td>Orson Scott Card</td>
+            <td data-order="2024-01-13">January 13, 2024</td>
+            <td data-order="2024-01-15">January 15, 2024</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Destiny and Power: The American Odyssey of George Herbert Walker Bush</td>
+            <td>John Meachem</td>
+            <td data-order="2023-12-14">December 14, 2023</td>
+            <td data-order="2023-12-28">December 28, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>G-Man: J. Edgar Hoover and the Making of the American Century</td>
+            <td>Beverly Gage</td>
+            <td data-order="2023-10-22">October 22, 2023</td>
+            <td data-order="2023-12-18">December 18, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2023-12-21-The-Magic-Mountain">The Magic Mountain</a></td>
+            <td>Thomas Mann</td>
+            <td data-order="2023-09-04">September 04, 2023</td>
+            <td data-order="2023-12-13">December 13, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Project Phoenix </td>
+            <td>Gene Kim</td>
+            <td data-order="2023-11-04">November 04, 2023</td>
+            <td data-order="2023-11-06">November 06, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2023-11-11-Truman">Truman</a></td>
+            <td>David McCullough</td>
+            <td data-order="2023-09-22">September 22, 2023</td>
+            <td data-order="2023-10-20">October 20, 2023</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Poppy War</td>
+            <td>R.F. Kuang</td>
+            <td data-order="2023-10-04">October 04, 2023</td>
+            <td data-order="2023-10-06">October 06, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dracula</td>
+            <td>Bram Stoker</td>
+            <td data-order="2023-08-27">August 27, 2023</td>
+            <td data-order="2023-09-05">September 05, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>About Face</td>
+            <td>David Hackworth</td>
+            <td data-order="2023-08-10">August 10, 2023</td>
+            <td data-order="2023-08-27">August 27, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Heart of Darkness</td>
+            <td>Joseph Conrad</td>
+            <td data-order="2023-08-01">August 01, 2023</td>
+            <td data-order="2023-08-02">August 02, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>King Leopold’s Ghost</td>
+            <td>Adam Hochschild</td>
+            <td data-order="2023-07-27">July 27, 2023</td>
+            <td data-order="2023-07-31">July 31, 2023</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Blood Meridian</td>
+            <td>Cormac McCarthy</td>
+            <td data-order="2023-06-25">June 25, 2023</td>
+            <td data-order="2023-07-17">July 17, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dark Matter</td>
+            <td>Blake Crouch</td>
+            <td data-order="2023-07-13">July 13, 2023</td>
+            <td data-order="2023-07-15">July 15, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Glass Hotel</td>
+            <td>Emily St. John Mandel</td>
+            <td data-order="2023-07-10">July 10, 2023</td>
+            <td data-order="2023-07-13">July 13, 2023</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Master and Margarita</td>
+            <td>Mikhail Bulgakov</td>
+            <td data-order="2023-05-03">May 03, 2023</td>
+            <td data-order="2023-06-24">June 24, 2023</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Wild Problems</td>
+            <td>Russ Roberts</td>
+            <td data-order="2023-06-12">June 12, 2023</td>
+            <td data-order="2023-06-17">June 17, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Man from the Future</td>
+            <td>Ananyo Bhattarcharya</td>
+            <td data-order="2023-03-02">March 02, 2023</td>
+            <td data-order="2023-06-03">June 03, 2023</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Case Against the Sexual Revolution</td>
+            <td>Louise Perry</td>
+            <td data-order="2023-06-01">June 01, 2023</td>
+            <td data-order="2023-06-02">June 02, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Doctor Zhivago</td>
+            <td>Boris Pasternak</td>
+            <td data-order="2023-04-10">April 10, 2023</td>
+            <td data-order="2023-04-24">April 24, 2023</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Half the Way Home: A Memoir of Father and Son</td>
+            <td>Adam Hochschild</td>
+            <td data-order="2023-03-16">March 16, 2023</td>
+            <td data-order="2023-03-16">March 16, 2023</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Daniel Deronda</td>
+            <td>George Eliot</td>
+            <td data-order="2023-01-10">January 10, 2023</td>
+            <td data-order="2023-03-05">March 05, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Disappearance of Josef Mengele</td>
+            <td>Olivier Guez</td>
+            <td data-order="2023-02-15">February 15, 2023</td>
+            <td data-order="2023-02-15">February 15, 2023</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Moby Dick</td>
+            <td>Herman Mellville</td>
+            <td data-order="2022-08-26">August 26, 2022</td>
+            <td data-order="2022-12-11">December 11, 2022</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Stolen Focus</td>
+            <td>Johann Hari</td>
+            <td data-order="2022-07-29">July 29, 2022</td>
+            <td data-order="2022-08-15">August 15, 2022</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Greenlights</td>
+            <td>Matthew McConaughey</td>
+            <td data-order="2022-07-10">July 10, 2022</td>
+            <td data-order="2022-07-13">July 13, 2022</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Books of Jacob</td>
+            <td>Olga Tokarczuk</td>
+            <td data-order="2022-04-26">April 26, 2022</td>
+            <td data-order="2022-05-18">May 18, 2022</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Democracy in America</td>
+            <td>Alexis de Tocqueville</td>
+            <td data-order="2022-02-02">February 02, 2022</td>
+            <td data-order="2022-04-19">April 19, 2022</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Robinson Crusoe</td>
+            <td>Daniel Defoe</td>
+            <td data-order="2022-03-31">March 31, 2022</td>
+            <td data-order="2022-04-07">April 07, 2022</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Boys in the Boat</td>
+            <td>Daniel James Brown</td>
+            <td data-order="2022-03-23">March 23, 2022</td>
+            <td data-order="2022-03-30">March 30, 2022</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Sense and Sensibility</td>
+            <td>Jane Austen</td>
+            <td data-order="2022-01-26">January 26, 2022</td>
+            <td data-order="2022-02-26">February 26, 2022</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Money Magic</td>
+            <td>Laurence Kotlikoff</td>
+            <td data-order="2022-02-02">February 02, 2022</td>
+            <td data-order="2022-02-03">February 03, 2022</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Catcher in the Rye</td>
+            <td>J.D. Salinger</td>
+            <td data-order="2022-01-15">January 15, 2022</td>
+            <td data-order="2022-01-19">January 19, 2022</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Sweet Spot</td>
+            <td>Paul Bloom</td>
+            <td data-order="2022-01-07">January 07, 2022</td>
+            <td data-order="2022-01-17">January 17, 2022</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Being Mortal</td>
+            <td>Atul Gawande</td>
+            <td data-order="2022-01-03">January 03, 2022</td>
+            <td data-order="2022-01-10">January 10, 2022</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Splendid and the Vile</td>
+            <td>Erik Larson</td>
+            <td data-order="2021-12-04">December 04, 2021</td>
+            <td data-order="2021-12-25">December 25, 2021</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Paul Simon</td>
+            <td>Robert Hilburn</td>
+            <td data-order="2021-12-18">December 18, 2021</td>
+            <td data-order="2021-12-22">December 22, 2021</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Where is my Flying Car?</td>
+            <td>J. Storrs Hall</td>
+            <td data-order="2021-12-13">December 13, 2021</td>
+            <td data-order="2021-12-17">December 17, 2021</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>American Judaism</td>
+            <td>Jonathan Sarna</td>
+            <td data-order="2021-10-07">October 07, 2021</td>
+            <td data-order="2021-11-28">November 28, 2021</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dune</td>
+            <td>Frank Herbert</td>
+            <td data-order="2021-11-05">November 05, 2021</td>
+            <td data-order="2021-11-11">November 11, 2021</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Gulliver's Travels</td>
+            <td>Jonathan Swift</td>
+            <td data-order="2021-09-01">September 01, 2021</td>
+            <td data-order="2021-09-13">September 13, 2021</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Churchill: Walking With Destiny</td>
+            <td>Andrew Roberts</td>
+            <td data-order="2021-06-27">June 27, 2021</td>
+            <td data-order="2021-08-01">August 01, 2021</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Mere Christianity</td>
+            <td>C.S. Lewis</td>
+            <td data-order="2021-06-21">June 21, 2021</td>
+            <td data-order="2021-06-24">June 24, 2021</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Guns, Germs, and Steel</td>
+            <td>Jared Diamond</td>
+            <td data-order="2021-03-24">March 24, 2021</td>
+            <td data-order="2021-04-03">April 03, 2021</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Complacent Class</td>
+            <td>Tyler Cowen</td>
+            <td data-order="2021-03-14">March 14, 2021</td>
+            <td data-order="2021-03-17">March 17, 2021</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Once an Eagle</td>
+            <td>Anton Myer</td>
+            <td data-order="2021-02-24">February 24, 2021</td>
+            <td data-order="2021-03-13">March 13, 2021</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>A History of the Jews</td>
+            <td>Paul Johnson</td>
+            <td data-order="2021-01-18">January 18, 2021</td>
+            <td data-order="2021-02-24">February 24, 2021</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>A Gentleman in Moscow</td>
+            <td>Amor Towles</td>
+            <td data-order="2021-01-22">January 22, 2021</td>
+            <td data-order="2021-01-26">January 26, 2021</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Fountainhead</td>
+            <td>Ayn Rand</td>
+            <td data-order="2021-01-08">January 08, 2021</td>
+            <td data-order="2021-01-16">January 16, 2021</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Portnoy's Complaint</td>
+            <td>Phillip Roth</td>
+            <td data-order="2020-11-21">November 21, 2020</td>
+            <td data-order="2020-11-30">November 30, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Get Together</td>
+            <td>Bailey Richardson</td>
+            <td data-order="2020-11-22">November 22, 2020</td>
+            <td data-order="2020-11-23">November 23, 2020</td>
+            <td>⭐️</td>
+        </tr>
+        <tr>
+            <td>Jump-Starting America</td>
+            <td>Jonathan Gruber</td>
+            <td data-order="2020-11-08">November 08, 2020</td>
+            <td data-order="2020-11-14">November 14, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Bullshit Jobs: A Theory</td>
+            <td>David Graeber</td>
+            <td data-order="2020-10-08">October 08, 2020</td>
+            <td data-order="2020-11-10">November 10, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dreamland</td>
+            <td>Sam Quinones</td>
+            <td data-order="2020-10-30">October 30, 2020</td>
+            <td data-order="2020-11-07">November 07, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Stubborn Attachments</td>
+            <td>Tyler Cowen</td>
+            <td data-order="2020-10-27">October 27, 2020</td>
+            <td data-order="2020-10-30">October 30, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Three Languages of Politics</td>
+            <td>Arnold Kling</td>
+            <td data-order="2020-10-19">October 19, 2020</td>
+            <td data-order="2020-10-22">October 22, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Cult of Smart</td>
+            <td>Fredrik deBoer</td>
+            <td data-order="2020-09-22">September 22, 2020</td>
+            <td data-order="2020-10-09">October 09, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Very Important People</td>
+            <td>Ashley Mears</td>
+            <td data-order="2020-09-18">September 18, 2020</td>
+            <td data-order="2020-10-01">October 01, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Americanah</td>
+            <td>Chimamanda Ngozi Adichie</td>
+            <td data-order="2020-08-29">August 29, 2020</td>
+            <td data-order="2020-09-07">September 07, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>I and Thou</td>
+            <td>Martin Buber</td>
+            <td data-order="2020-08-09">August 09, 2020</td>
+            <td data-order="2020-08-26">August 26, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Winning the Next War</td>
+            <td>Stephen Rosen</td>
+            <td data-order="2020-08-09">August 09, 2020</td>
+            <td data-order="2020-08-25">August 25, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Devil in the White City</td>
+            <td>Erik Larson</td>
+            <td data-order="2020-08-14">August 14, 2020</td>
+            <td data-order="2020-08-17">August 17, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Working in Public: The Making and Maintenance of Open Source Software</td>
+            <td>Nadia Eghbal</td>
+            <td data-order="2020-08-09">August 09, 2020</td>
+            <td data-order="2020-08-12">August 12, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Treasure Island</td>
+            <td>Robert Louis Stevenson</td>
+            <td data-order="2020-08-03">August 03, 2020</td>
+            <td data-order="2020-08-06">August 06, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Revolt of the Public</td>
+            <td>Martin Gurri</td>
+            <td data-order="2020-07-29">July 29, 2020</td>
+            <td data-order="2020-08-02">August 02, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Second Machine Age</td>
+            <td>Erik Brynjolfsson</td>
+            <td data-order="2020-07-22">July 22, 2020</td>
+            <td data-order="2020-08-01">August 01, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Martin Buber's I and Thou: Practicing Living Dialogue</td>
+            <td>Kenneth Kramer</td>
+            <td data-order="2020-07-20">July 20, 2020</td>
+            <td data-order="2020-07-29">July 29, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Pornography and Silence</td>
+            <td>Susan Griffin</td>
+            <td data-order="2020-07-13">July 13, 2020</td>
+            <td data-order="2020-07-17">July 17, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Decadent Society</td>
+            <td>Ross Douthat</td>
+            <td data-order="2020-07-10">July 10, 2020</td>
+            <td data-order="2020-07-14">July 14, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>How Innovation Works</td>
+            <td>Matt Ridley</td>
+            <td data-order="2020-06-22">June 22, 2020</td>
+            <td data-order="2020-07-08">July 08, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Bad Religion</td>
+            <td>Ross Douthat</td>
+            <td data-order="2020-06-02">June 02, 2020</td>
+            <td data-order="2020-07-07">July 07, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Innovator's Dilemma</td>
+            <td>Clayton Christensen</td>
+            <td data-order="2020-06-13">June 13, 2020</td>
+            <td data-order="2020-06-21">June 21, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Art of Doing Science and Engineering</td>
+            <td>Richard Hamming</td>
+            <td data-order="2020-06-02">June 02, 2020</td>
+            <td data-order="2020-06-08">June 08, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Range</td>
+            <td>David Epstein</td>
+            <td data-order="2020-05-26">May 26, 2020</td>
+            <td data-order="2020-05-31">May 31, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Power Broker</td>
+            <td>Robert Caro</td>
+            <td data-order="2020-05-18">May 18, 2020</td>
+            <td data-order="2020-05-31">May 31, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Last Man Who Knew Everything</td>
+            <td>David Schwartz</td>
+            <td data-order="2020-05-04">May 04, 2020</td>
+            <td data-order="2020-05-22">May 22, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Beloved</td>
+            <td>Toni Morrison</td>
+            <td data-order="2020-05-13">May 13, 2020</td>
+            <td data-order="2020-05-16">May 16, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Idiot</td>
+            <td>Fyodor Dostoevsky</td>
+            <td data-order="2020-05-06">May 06, 2020</td>
+            <td data-order="2020-05-12">May 12, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>History of the Pelopponesian War</td>
+            <td>Thucidydes</td>
+            <td data-order="2020-04-27">April 27, 2020</td>
+            <td data-order="2020-05-05">May 05, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Adventures of Don Quixote</td>
+            <td>Miguel de Cervantes</td>
+            <td data-order="2020-04-20">April 20, 2020</td>
+            <td data-order="2020-04-26">April 26, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Tortilla Flat</td>
+            <td>John Steinbeck</td>
+            <td data-order="2020-04-18">April 18, 2020</td>
+            <td data-order="2020-04-19">April 19, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Losing Ground</td>
+            <td>Charles Murray</td>
+            <td data-order="2020-04-16">April 16, 2020</td>
+            <td data-order="2020-04-17">April 17, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Count of Monte Cristo</td>
+            <td>Alexandre Dumas</td>
+            <td data-order="2020-04-09">April 09, 2020</td>
+            <td data-order="2020-04-14">April 14, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Love in the Time of Cholera</td>
+            <td>Gabriel Garcia Marquez</td>
+            <td data-order="2020-04-04">April 04, 2020</td>
+            <td data-order="2020-04-07">April 07, 2020</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Candide</td>
+            <td>Voltaire</td>
+            <td data-order="2020-04-02">April 02, 2020</td>
+            <td data-order="2020-04-02">April 02, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Innovators</td>
+            <td>Walter Isaacson</td>
+            <td data-order="2020-03-29">March 29, 2020</td>
+            <td data-order="2020-03-31">March 31, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Fathers and Sons</td>
+            <td>Ivan Turganev</td>
+            <td data-order="2020-03-23">March 23, 2020</td>
+            <td data-order="2020-03-24">March 24, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>World Without Mind</td>
+            <td>Franklin Foer</td>
+            <td data-order="2020-03-21">March 21, 2020</td>
+            <td data-order="2020-03-22">March 22, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Plague</td>
+            <td>Albert Camus</td>
+            <td data-order="2020-03-18">March 18, 2020</td>
+            <td data-order="2020-03-20">March 20, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>#Republic</td>
+            <td>Cass Sunstein</td>
+            <td data-order="2020-03-15">March 15, 2020</td>
+            <td data-order="2020-03-17">March 17, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Uncle Tom's Cabin</td>
+            <td>Harriet Beecher Stowe</td>
+            <td data-order="2020-01-23">January 23, 2020</td>
+            <td data-order="2020-03-14">March 14, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Bobos in Paradise</td>
+            <td>David Brooks</td>
+            <td data-order="2020-02-24">February 24, 2020</td>
+            <td data-order="2020-03-12">March 12, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Tribe</td>
+            <td>Sebastian Junger</td>
+            <td data-order="2020-02-22">February 22, 2020</td>
+            <td data-order="2020-02-24">February 24, 2020</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>How to Hide an Empire</td>
+            <td>Daniel Immewahr</td>
+            <td data-order="2020-01-10">January 10, 2020</td>
+            <td data-order="2020-01-22">January 22, 2020</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Pachinko</td>
+            <td>Min Jin Lee</td>
+            <td data-order="2019-12-26">December 26, 2019</td>
+            <td data-order="2020-01-03">January 03, 2020</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Plot Against America</td>
+            <td>Phillip Roth</td>
+            <td data-order="2019-12-19">December 19, 2019</td>
+            <td data-order="2019-12-26">December 26, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Right Stuff</td>
+            <td>Tom Wolfe</td>
+            <td data-order="2019-11-11">November 11, 2019</td>
+            <td data-order="2019-12-19">December 19, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dead Souls</td>
+            <td>Nikolay Gogol</td>
+            <td data-order="2019-10-18">October 18, 2019</td>
+            <td data-order="2019-10-25">October 25, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Assault on American Excellence</td>
+            <td>Anthony Kronman</td>
+            <td data-order="2019-10-15">October 15, 2019</td>
+            <td data-order="2019-10-18">October 18, 2019</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Stillness is the Key</td>
+            <td>Ryan Holiday</td>
+            <td data-order="2019-10-11">October 11, 2019</td>
+            <td data-order="2019-10-14">October 14, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Super Pumped</td>
+            <td>Mike Isaac</td>
+            <td data-order="2019-10-06">October 06, 2019</td>
+            <td data-order="2019-10-10">October 10, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Meritocracy Trap</td>
+            <td>Daniel Markovits</td>
+            <td data-order="2019-09-23">September 23, 2019</td>
+            <td data-order="2019-10-05">October 05, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dignity</td>
+            <td>Chris Arnade</td>
+            <td data-order="2019-09-10">September 10, 2019</td>
+            <td data-order="2019-09-10">September 10, 2019</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>A Man Called Ove</td>
+            <td>Fredrik Backman</td>
+            <td data-order="2019-09-05">September 05, 2019</td>
+            <td data-order="2019-09-08">September 08, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2019-09-03-the-rational-optimist">The Rational Optimist</a></td>
+            <td>Matt Ridley</td>
+            <td data-order="2019-08-30">August 30, 2019</td>
+            <td data-order="2019-09-03">September 03, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>One Hundred Years of Solitude</td>
+            <td>Gabriel Garcia Marquez</td>
+            <td data-order="2019-08-22">August 22, 2019</td>
+            <td data-order="2019-08-30">August 30, 2019</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Meditations</td>
+            <td>Marcus Aurelius</td>
+            <td data-order="2019-08-18">August 18, 2019</td>
+            <td data-order="2019-08-21">August 21, 2019</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Catch-22</td>
+            <td>Joseph Heller</td>
+            <td data-order="2019-08-11">August 11, 2019</td>
+            <td data-order="2019-08-17">August 17, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Average is Over</td>
+            <td>Tyler Cowen</td>
+            <td data-order="2019-08-05">August 05, 2019</td>
+            <td data-order="2019-08-09">August 09, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Lolita</td>
+            <td>Vladimir Nabokov</td>
+            <td data-order="2019-07-29">July 29, 2019</td>
+            <td data-order="2019-08-01">August 01, 2019</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The 48 Laws of Power</td>
+            <td>Robert Greene</td>
+            <td data-order="2019-07-20">July 20, 2019</td>
+            <td data-order="2019-07-28">July 28, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td><a href="/books/2024-07-26-journey-to-the-end-of-the-night">Journey to the End of the Night</a></td>
+            <td>Louis-Ferdinand Celine</td>
+            <td data-order="2019-06-01">June 01, 2019</td>
+            <td data-order="2019-06-28">June 28, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Castle</td>
+            <td>Franz Kafka</td>
+            <td data-order="2019-05-01">May 01, 2019</td>
+            <td data-order="2019-05-08">May 08, 2019</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Sun Also Rises</td>
+            <td>Ernest Hemingway</td>
+            <td data-order="2019-04-29">April 29, 2019</td>
+            <td data-order="2019-05-03">May 03, 2019</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Battle Hymn of the Tiger Mother</td>
+            <td>Amy Chua</td>
+            <td data-order="2019-04-25">April 25, 2019</td>
+            <td data-order="2019-04-29">April 29, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Road to Serfdom</td>
+            <td>F.A. Hayek</td>
+            <td data-order="2019-03-28">March 28, 2019</td>
+            <td data-order="2019-04-25">April 25, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Homage to Catalonia</td>
+            <td>George Orwell</td>
+            <td data-order="2019-04-10">April 10, 2019</td>
+            <td data-order="2019-04-23">April 23, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Black Hearts</td>
+            <td>Jim Frederick</td>
+            <td data-order="2019-03-25">March 25, 2019</td>
+            <td data-order="2019-04-10">April 10, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Endurance</td>
+            <td>Alfred Lansing</td>
+            <td data-order="2019-04-09">April 09, 2019</td>
+            <td data-order="2019-04-10">April 10, 2019</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Diversity Delusion</td>
+            <td>Amy McDonald</td>
+            <td data-order="2019-03-25">March 25, 2019</td>
+            <td data-order="2019-04-01">April 01, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>One Day in the Life of Ivan Denisovich</td>
+            <td>Alexander Solzhenitsyn</td>
+            <td data-order="2019-03-21">March 21, 2019</td>
+            <td data-order="2019-03-28">March 28, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Like War</td>
+            <td>Emerson T. Brooking</td>
+            <td data-order="2019-03-03">March 03, 2019</td>
+            <td data-order="2019-03-21">March 21, 2019</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>In The First Circle</td>
+            <td>Alexander Solzhenitsyn</td>
+            <td data-order="2019-02-11">February 11, 2019</td>
+            <td data-order="2019-03-02">March 02, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Platoon Leader</td>
+            <td>James McDonough</td>
+            <td data-order="2019-02-12">February 12, 2019</td>
+            <td data-order="2019-02-21">February 21, 2019</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Industries of the Future</td>
+            <td>Alec Ross</td>
+            <td data-order="2019-01-20">January 20, 2019</td>
+            <td data-order="2019-02-04">February 04, 2019</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Return of Tarzan</td>
+            <td>Edgar Rice Borroughs</td>
+            <td data-order="2019-01-14">January 14, 2019</td>
+            <td data-order="2019-01-16">January 16, 2019</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Tarzan of the Apes</td>
+            <td>Edgar Rice Borroughs</td>
+            <td data-order="2019-01-12">January 12, 2019</td>
+            <td data-order="2019-01-14">January 14, 2019</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Anna Karenina</td>
+            <td>Leo Tolstoy</td>
+            <td data-order="2018-12-23">December 23, 2018</td>
+            <td data-order="2019-01-11">January 11, 2019</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Adventures of Augie March</td>
+            <td>Saul Bellow</td>
+            <td data-order="2018-10-15">October 15, 2018</td>
+            <td data-order="2018-11-06">November 06, 2018</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Excellent Sheep</td>
+            <td>William Deresiewicz</td>
+            <td data-order="2018-10-08">October 08, 2018</td>
+            <td data-order="2018-10-12">October 12, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Young Washington</td>
+            <td>Peter Stark</td>
+            <td data-order="2018-07-23">July 23, 2018</td>
+            <td data-order="2018-07-31">July 31, 2018</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Road to Wigan Pier</td>
+            <td>George Orwell</td>
+            <td data-order="2018-07-22">July 22, 2018</td>
+            <td data-order="2018-07-23">July 23, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Dataclysm</td>
+            <td>Christian Rudder</td>
+            <td data-order="2018-07-18">July 18, 2018</td>
+            <td data-order="2018-07-22">July 22, 2018</td>
+            <td>⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Ordinary Men</td>
+            <td>Christopher Browning</td>
+            <td data-order="2018-07-15">July 15, 2018</td>
+            <td data-order="2018-07-18">July 18, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Fahrenheight 451</td>
+            <td>Ray Bradbury</td>
+            <td data-order="2018-07-14">July 14, 2018</td>
+            <td data-order="2018-07-15">July 15, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Weapons of Math Destruction</td>
+            <td>Cathy O'Neill</td>
+            <td data-order="2018-07-11">July 11, 2018</td>
+            <td data-order="2018-07-13">July 13, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>For Whom the Bell Tolls</td>
+            <td>Ernest Hemingway</td>
+            <td data-order="2018-07-04">July 04, 2018</td>
+            <td data-order="2018-07-11">July 11, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>Country Dark</td>
+            <td>Chris Offutt</td>
+            <td data-order="2018-06-20">June 20, 2018</td>
+            <td data-order="2018-07-04">July 04, 2018</td>
+            <td>⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>To Save Everything, Click Here</td>
+            <td>Evgeny Morozov</td>
+            <td data-order="2018-06-30">June 30, 2018</td>
+            <td data-order="2018-07-03">July 03, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+        <tr>
+            <td>The Goldfinch</td>
+            <td>Donna Tartt</td>
+            <td data-order="2018-06-19">June 19, 2018</td>
+            <td data-order="2018-06-30">June 30, 2018</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- jQuery and DataTables JS -->
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+
+<script>
+// Ensure jQuery and DataTables are loaded before initializing
+(function() {
+    function initDataTable() {
+        if (typeof jQuery === 'undefined') {
+            setTimeout(initDataTable, 100);
+            return;
+        }
+        if (typeof jQuery.fn.DataTable === 'undefined') {
+            setTimeout(initDataTable, 100);
+            return;
+        }
+        jQuery(document).ready(function($) {
+            $('#booksTable').DataTable({
+                "order": [[3, "desc"]],  // Sort by End Date descending
+                "pageLength": 25,
+                "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                "language": {
+                    "search": "Search books:",
+                    "lengthMenu": "Show _MENU_ books per page",
+                    "info": "Showing _START_ to _END_ of _TOTAL_ books",
+                    "infoEmpty": "No books found",
+                    "infoFiltered": "(filtered from _MAX_ total books)"
+                }
+            });
+        });
+    }
+    initDataTable();
+})();
+</script>
