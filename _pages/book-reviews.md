@@ -5,8 +5,6 @@ permalink: /book-reviews/
 classes: wide
 ---
 
-## Book Reviews
-
 Here are my thoughts and reviews on books I've read:
 
 <div class="entries-grid">

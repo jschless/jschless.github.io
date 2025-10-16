@@ -3,6 +3,11 @@ layout: post
 category: generalblog
 title: "Truckers: The Salt of the Earth"
 date: 2023-04-20 01:03:36 +0530
+header:
+  overlay_image: /assets/truck-drivers.png
+  overlay_filter: 0.5
+  teaser: /assets/truck-drivers.png
+excerpt: "A front-row seat to America's melting pot through coordinating 50+ trucking contracts and meeting the hard-working characters who keep the country moving"
 ---
 
 I've heard that a good way to get quickly to the heart and soul of an American region is to get a haircut. Barbers tend to be the "born and raised" types who can quickly familiarize you with a place, and making conversation is in their job description. Well, if you want to get to know the heart and soul of many places, oversee a large-scale trucking operation. Truckers come from every corner of the Republic (and the world), and the solitude of their work leaves them starved for conversation and volunteering all kinds of information. It's the good stuff too, that which eludes the polite small talk that usually governs initial encounters.
@@ -18,7 +23,9 @@ So much can go wrong! Trucks break down, which happened to 5% of my loads. Somet
 
 Delays are also caused by regulation. One driver showed up and cancelled because he didn't have the permits to carry a 25 ton load. He claims his dispatcher hoped he would ignore the weight and drive at the risk of a $5,000 personal fine. Another driver left and later returned his load because it was 400 pounds too heavy. Drivers can only drive for ten hours before needing to rest for another ten hours. They have to rest an additional 33 hours after 80 hours of cumulative driving. These constraints appear to be completely ignored by the dispatchers, who simply hope for the best. Different states have different regulations, which the conscientious drivers obey to a tee. Some drivers did not seem to care about the regulations, or perhaps they were unaware of their existence. 
 
-These delays and cancellations create a constant panic to satisfy contracts, often culminating in a last-minute phone call from the carrier to the customer (me) saying they can't help us anymore. Ten hours before my flight home left, I needed two more trucks to show up and there were no prospects. A carrier scrambled and found two drivers, who arrived at 9 pm and spared me from moving my flight. 
+These delays and cancellations create a constant panic to satisfy contracts, often culminating in a last-minute phone call from the carrier to the customer (me) saying they can't help us anymore. Ten hours before my flight home left, I needed two more trucks to show up and there were no prospects. A carrier scrambled and found two drivers, who arrived at 9 pm and spared me from moving my flight.
+
+![Truckers: The Salt of the Earth](/assets/truck-drivers.png)
 
 ## A Chaotic Symphony of Americana
 There's no theme to tie my experiences together, so I will just walk you through the chaos from my perspective. I have phone numbers and contact information for approximately half of the contracts. The other half of the contracts are either not fulfilled, the carrier is delinquent in providing the contact information, or the carrier does not even know which trucker is coming to pick up the load. I just sit and wait in the desert sun as trucks show up and phone numbers from all across the country call me. I do not know when or if trucks will show. There is no preparation, only reaction.

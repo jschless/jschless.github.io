@@ -5,8 +5,6 @@ permalink: /projects/
 classes: wide
 ---
 
-## Projects
-
 Coding projects, technical analysis, and programming insights.
 
 <div class="entries-grid">

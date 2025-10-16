@@ -5,8 +5,6 @@ permalink: /essays/
 classes: wide
 ---
 
-## Essays
-
 Thoughts and reflections on various topics.
 
 <div class="entries-grid">

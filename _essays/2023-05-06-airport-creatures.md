@@ -3,6 +3,11 @@ layout: post
 category: generalblog
 title: "Airport Creatures: A View from Space"
 date: 2023-05-06 01:03:36 +0530
+header:
+  overlay_image: /assets/airport-creatures.png
+  overlay_filter: 0.5
+  teaser: /assets/airport-creatures.png
+excerpt: "Observing the de-evolution of humanity in the modern airport terminal, from polite society to primal survival mode"
 ---
 
 The airport is a hell of a place. When I fly, I spend hours observing my fellow travelers. Each airport denizen is forced to navigate a modern Collosseum in order to be free. While not specifically optimized to stress people out, I imagine someone purposefully trying to stress people out would have come up with something similar. It doesn't help that the average traveler has a high baseline of anxiety. 
@@ -17,6 +22,8 @@ All passengers are ushered into the airport by confusing signage. They must make
 The security line is the most awe-inspiring part of the airport. American class divisions project onto the various lines: Clear for the elite, TSA-pre for the upper middle class, and the regular line for the proles. One thing that unites the classes is the participation in the TSA's security theatre. While only the proles are subjected to the humiliation of taking their shoes off, everyone goes through the metal detector and the occasional full-body scan. Everyone is also subject to random screenings and the confiscation of threatening materials like toothpaste or demonic entities (e.g. nail files, pocket knives). The Kafkaesque TSA rules, which sometimes vary between lines *at a single airport*, do not discriminate; they torment people from all walks of life.
 
 Indeed, the security line can be an odyssey, but such a ritual is necessary to signify the transformation that takes place as you pass through. The security screening is a gateway to lawlessness and the abandonment of the few remaining norms of polite society. Americans de-evolve from *homo sapien* to *airport creature* and the security line is the coronation.
+
+![Airport Creatures](/assets/airport-creatures.png)
 
 ## The Airport Creature
 
