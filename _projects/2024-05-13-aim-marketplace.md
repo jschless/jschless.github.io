@@ -55,6 +55,7 @@ First, I don't have any actual data (yet) so I had to rely completely on simulat
 Let $U_i$ be a unit and $O_i$ be an officer. Assume each unit and officer has an endogenous desirability that follows a normal distribution. That is, some units every officer wants to match with (Colorado), some units no one wants to match with (Louisiana), and most units are somewhere in the middle. The same applies to officers (some studs, some duds, most are average).[^3]
 
 $$U_i \sim N(50, 20)$$
+
 $$O_i \sim N(50, 20)$$
 
 
@@ -63,6 +64,7 @@ $$O_i \sim N(50, 20)$$
 In addition to a unit's endogenous desirability, there is also a component of desirability that comes from the officer. For example, Louisiana may have a low desirability, but an officer might have family there and thus really want to move there. We account for this by adding another random variable, or some "noise," to the mix:[^4]
 
 $$O_i(U_j) \sim N(0, 20)$$
+
 $$U_i(O_j) \sim N(0, 20)$$
 
 [^4]: This noise term was chosen arbitrarily. I looked at the resulting distributions based on various standard deviations until it matched rough intuitions.
@@ -70,7 +72,8 @@ $$U_i(O_j) \sim N(0, 20)$$
 To recap, each officer will evaluate a unit based on its innate desirability and its specific desirability *to that officer.* Then, an officer or unit ranks their choices according to the following desirability scores:
 
 $$D_{O_i}(U_j) = U_j + O_i(U_j)$$
-$$D_{O_i}(A_j) = O_j + U_i(O_j)$$
+
+$$D_{U_i}(O_j) = O_j + U_i(O_j)$$
 
 The following chart conveys the distribution of one sample of simulated data. There is a boxplot of the distribution of rankings for each unit for a marketplace of size 30. You can see some units are much more highly preferenced than others, but because of the added unit-specific desirability of each officer, even the least desirable units receive some high rankings.
 
