@@ -52,7 +52,7 @@ Below, I detail my steps for simulating the marketplace. First, I explain how I 
 ## Simulating Data
 First, I don't have any actual data (yet) so I had to rely completely on simulated data. The modeling is fairly simple. 
 
-Let $U_i$ be a unit and $O_i$ be an officer. Assume each unit and officer has an endogenous desirability that follows a normal distribution. That is, some units every officer wants to match with (Colorado), some units no one wants to match with (Louisiana), and most units are somewhere in the middle. The same applies to officers (some studs, some duds, most are average).[^3]
+Let $$U_i$$ be a unit and $$O_i$$ be an officer. Assume each unit and officer has an endogenous desirability that follows a normal distribution. That is, some units every officer wants to match with (Colorado), some units no one wants to match with (Louisiana), and most units are somewhere in the middle. The same applies to officers (some studs, some duds, most are average).[^3]
 
 $$U_i \sim N(50, 20)$$
 

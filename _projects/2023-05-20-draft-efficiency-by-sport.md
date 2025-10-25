@@ -35,7 +35,7 @@ There are a number of criticisms I anticipate with these metrics, which I will r
 - All-league seasons may be less important than consistency. For example, a PG who plays 15 seasons pretty well may be a better pick than a PG who has one great season and gets injured and is never the same (cough, Derrick Rose). **True, I don't have much to say about this other than your first round pick you want to be great, not just consistently good. This analysis is heavily bias towards early draft picks**
 - This metric is sparse: only a few people each year get recognized. A lot of valuable players will be zeroes and look no different from total busts. **True, but it's my assumption that with your first round pick you want to hit the jackpot. Additionally, most of my analysis relies on ordinality within a given draft year. So, as long as the better player's outcome is greater than or equal to the worse player's outcome, I think it's ok. Also, maybe I'll re-run the analysis with more continuous player value statistics.**
 
-I look at a few other metrics derived from my "outcome", such as *forgone value*. Foregone value is defined as the difference between the most valuable available pick at position $i$ in the draft and the actual pick
+I look at a few other metrics derived from my "outcome", such as *forgone value*. Foregone value is defined as the difference between the most valuable available pick at position $$i$$ in the draft and the actual pick
 
 $$f_i = \max_{j \in i+1..N}\{O_j\}  - O_i$$
 
