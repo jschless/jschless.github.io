@@ -108,9 +108,9 @@ Grant’s pride at trying to get a truce to collect his wounded at Cold Harbor w
 > this sacrifice of brave men for not apparent purpose except to salve his rankled pride. Worst of all, they saw in the agony of their comrades, left to die amid the corpses on a field already lost, a preview of much agony to come, when they themselves would be left to whimper through days of pain while their leader composed notes in defense of conduct which, so far as they could see, had been indefensible from the start. 296-297
 > 
 
-Meade like Sherman had no love for journalists. 
+Meade like Sherman had no love for journalists.
 
-> Enraged by the repetition of this “base and wicked lie,” Meade placed the offender in arrest and had his adjutant draw up a general order directing that he “be put wihtout the lines of the army and not permitted to return.” … Wearing on his breast and back large placards lettered LIBELER OF THE PRESS, Crapsey was mounted face-rearward on a mule and paraded through the camps tot he accompaniment of the “Rogeu’s March,” after which he wass less ceremoniously expelled. 298
+> Enraged by the repetition of this "base and wicked lie," Meade placed the offender in arrest and had his adjutant draw up a general order directing that he "be put without the lines of the army and not permitted to return." … Wearing on his breast and back large placards lettered LIBELER OF THE PRESS, Crapsey was mounted face-rearward on a mule and paraded through the camps tot he accompaniment of the "Rogeu's March," after which he wass less ceremoniously expelled. 298
 > 
 
 Davis was annoyed by Johnston’s lack of aggressiveness against Sherman. 

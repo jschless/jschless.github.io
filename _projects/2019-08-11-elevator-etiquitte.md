@@ -171,7 +171,7 @@ This is a good example of mean being a misleading statistic if the distribution 
 Now I will look at median and quantiles when comparing the two distributions.
 
 ```python
-def summary_statistics(oen_times, two_times):
+def summary_statistics(one_times, two_times):
     print(f'Median for pressing one button: {np.median(one_times)}')
     print(f'Median for pressing both buttons: {np.median(two_times)}')
 	xs, one_ys, two_ys = [], [], []

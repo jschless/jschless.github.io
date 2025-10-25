@@ -13,7 +13,7 @@ The kickoff has traditionally been one of the most exciting plays in football. I
 I was curious what the actual 2011 and 2016 rules changes did to the kickoff. How much less of a factor is the kickoff than it once was? How has it impacted the decision to bring a kick out of the endzone. Here's what I found:
 
 ## The Efficient Return Hypothesis
-Below is a chart of the average kickoff return location by NFL season. I pulled every kickoff dating back to 1999. The kickoffs are broken down into three lines. In blue, you see all kickoffs, in green are kickoffs that started outside of the endzone, and in orange are kickoffs where the returner decided to take it out of the endzon (instead of accepting a touchback). 
+Below is a chart of the average kickoff return location by NFL season. I pulled every kickoff dating back to 1999. The kickoffs are broken down into three lines. In blue, you see all kickoffs, in green are kickoffs that started outside of the endzone, and in orange are kickoffs where the returner decided to take it out of the endzone (instead of accepting a touchback). 
 
 At the 2011 season, the average return dropped significantly because they moved the kicks up five yards. This was ok because the returns were still going beyond the 20 yard line, which is better than a touchback. **Once the NFL switched to the 25 yard line touchback, returns taken out of the endzone started to underperform the touchback.** After the first two seasons of the rule change, kick returners seem to have adjusted and the average start position reached parity with the touchback. 
 ![Starting Positions](/assets/kickoffreturns/average_returns_over_time.jpeg) 
@@ -42,7 +42,7 @@ If we look at kickoff return touchdowns over time, it's not clear that the rule 
 
 ![Return Touchdowns](/assets/kickoffreturns/touchdowns.jpeg)
 
-The effect becomes crystal clear if we look at the number of kickoffs that reached past midfield. The dropoff is stark and obvious after 2011.  *Great* returns declined from 80 per season to 25. There aren't even enough great returns for every team to have one. This is the true death of the kickoff return. It' still true that in most cases, the kickoff return only makes a difference of 5 or 10 yards one way or the other. However, before 2011, there was a reasonable chance of a great kickoff return, which could jumpstart a drive and legitimately impact the game's momentum and outcome. Now, it is exceptionally rare that a kickoff return dramatically impacts a game. 
+The effect becomes crystal clear if we look at the number of kickoffs that reached past midfield. The dropoff is stark and obvious after 2011.  *Great* returns declined from 80 per season to 25. There aren't even enough great returns for every team to have one. This is the true death of the kickoff return. It's still true that in most cases, the kickoff return only makes a difference of 5 or 10 yards one way or the other. However, before 2011, there was a reasonable chance of a great kickoff return, which could jumpstart a drive and legitimately impact the game's momentum and outcome. Now, it is exceptionally rare that a kickoff return dramatically impacts a game. 
 
 
 ![Return Past Midfield](/assets/kickoffreturns/past_midfield.jpeg)

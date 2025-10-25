@@ -13,7 +13,7 @@ excerpt: "A web application that converts simple markdown-like syntax into prope
 
 # Motivation
 
-The Army runs on memorandums. Appointment orders, FRAGORDs, etc. They are all written in accordance with AR 25-50: Managing Correspondance, which includes a set of specific instructions on formatting. These instructions can be tedious to follow. When editing memos in Microsoft Word, its easy to add an extra tab or return and thereby create a formatting error. When you're writing a memo, you should be worried about effectively communicating, *not* whether your fat finger has introduced an embarassing error.
+The Army runs on memorandums. Appointment orders, FRAGORDs, etc. They are all written in accordance with AR 25-50: Managing Correspondance, which includes a set of specific instructions on formatting. These instructions can be tedious to follow. When editing memos in Microsoft Word, its easy to add an extra tab or return and thereby create a formatting error. When you're writing a memo, you should be worried about effectively communicating, *not* whether your fat finger has introduced an embarrassing error.
 
 I created [Armymarkdown](https://armymemomaker.com) to alleviate these issues. Armymarkdown compiles memos and guarantees the correct format every time. It was designed to be (hopefully) easy to use.
 
@@ -65,7 +65,7 @@ Once the memo contents are parsed, the writer then creates a temporary latex fil
 
 Once I had a minimum viable product, the next challenge was making it accessible on the web. This is usually pretty straightforward, but it was complicated by the fact that the average user would be on a DOD network. 
 
-The website is a simple one page Flask app. I decided to deploy it with Heroku because Heroku was free (this is no longer true). I had to create a [custom Heroku dyno](https://github.com/jschless/heroku-buildpack-tex) that had the necessary latex packages to comnpile the memos. I used Celery and Redis to manage task scheduling and Amazon S3 to deal with file uploads/downloads.
+The website is a simple one page Flask app. I decided to deploy it with Heroku because Heroku was free (this is no longer true). I had to create a [custom Heroku dyno](https://github.com/jschless/heroku-buildpack-tex) that had the necessary latex packages to compile the memos. I used Celery and Redis to manage task scheduling and Amazon S3 to deal with file uploads/downloads.
 
 DOD networks create bugs with all online text editors, so I had to use a simple text box as the memo editor. This is frustrating because I cannot have syntax highlighting, advanced spellcheck, or other desirable features that might make the user experience more enjoyable. I tried at length to get a number of javascript text editors to work with no luck.
 

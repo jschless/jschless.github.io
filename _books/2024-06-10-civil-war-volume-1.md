@@ -32,7 +32,7 @@ Beyond the shortcomings of armies yet to receive their baptisms by fire, some of
 >Zollicoffer lost his sense of direction in the rain. Conspicuous in a white rubber coat that made him an ideal target, he rode out between the lines, got turned around, and near-sightedly mistook a Federal colonel for one of his own officers. At this point his luck, which had been running strong, ran out. He was shouting an order when the colonel, a man who recognized an advantage when he saw one, leveled his revolver and put a bullet point-blank into Zollicoffer’s breast. (179)
 
 Union officers were susceptible to the same goofs. After the Union retreat at the Seven Days, one general overslept and got captured:
-“[The Confederates] had pushed down toward the Chicahominy without encountering any live Federals except the injured and stragglers, including one of McCall’s brigade commanders, Brigadier General John F. Reynolds, who had slept too long int the woods and was captured.” (493)
+"[The Confederates] had pushed down toward the Chicahominy without encountering any live Federals except the injured and stragglers, including one of McCall's brigade commanders, Brigadier General John F. Reynolds, who had slept too long in the woods and was captured." (493)
 
 While some might believe occasional confusion and chaos in combat is an irreducible quality of war, these particular examples suggest inexperience and amateurism among senior leaders as the culprit. 
 

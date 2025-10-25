@@ -10,7 +10,7 @@ header:
 excerpt: "Observing the de-evolution of humanity in the modern airport terminal, from polite society to primal survival mode"
 ---
 
-The airport is a hell of a place. When I fly, I spend hours observing my fellow travelers. Each airport denizen is forced to navigate a modern Collosseum in order to be free. While not specifically optimized to stress people out, I imagine someone purposefully trying to stress people out would have come up with something similar. It doesn't help that the average traveler has a high baseline of anxiety. 
+The airport is a hell of a place. When I fly, I spend hours observing my fellow travelers. Each airport denizen is forced to navigate a modern Colosseum in order to be free. While not specifically optimized to stress people out, I imagine someone purposefully trying to stress people out would have come up with something similar. It doesn't help that the average traveler has a high baseline of anxiety. 
 
 ## A Trip to the Airport
 The airport frenzy begins immediately upon arrival. The majority of passengers arrive by bus or car. As soon as they are within a 10 meter radius of an airport door, they are quickly shepherded out of their vehicle. When there isn't room to pull over, cars will stop in the middle of the road to offload the cattle. Policemen chase cars that have been stopped too long with impatient hand gestures and the occasional chiding via loudspeaker. 

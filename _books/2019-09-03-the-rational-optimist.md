@@ -11,7 +11,7 @@ Interestingly enough, this book was recommended to me by General David Petraeus.
 
 ### Rough Summary
 - It is great to live today compared to the past. 
-- Through trade, we have multiplied our knowledge, quality of live, and pretty much everything good. 
+- Through trade, we have multiplied our knowledge, quality of life, and pretty much everything good. 
 - Things will only get better with time. 
 - Climate change is not as big a threat as people think.
 - Africa is harmed by foreign aid.

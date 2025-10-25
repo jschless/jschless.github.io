@@ -23,7 +23,7 @@ Second, there is now much more space! And we can use this space. The idea is we 
 
 ## Some One-Off Improvements
 
-_Remove seat reclining_. It sucks. I don’t think the added comfort for the indivudal compensates the added discomfort for the person behind them. I’d be willing to reconsider if there were more space.
+_Remove seat reclining_. It sucks. I don't think the added comfort for the individual compensates the added discomfort for the person behind them. I'd be willing to reconsider if there were more space.
 
 _Get rid of the snacks and drinks._ We’re all adults here. You should be able to survive a 4 hour flight without a resupply. Bring enough rations to last the flight.
 

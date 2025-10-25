@@ -1,7 +1,7 @@
 ---
 layout: post
 category: mathblog
-title:  "Plotting Thucidydes' History of the Peloponnesian War"
+title:  "Plotting Thucydides' History of the Peloponnesian War"
 date:   2020-05-02 21:03:36 +0530
 ---
 __TLDR__: I attempt to illustrate the History of the Peloponnesian War by extracting locations using natural language processing and plotting them using Python Plotly.

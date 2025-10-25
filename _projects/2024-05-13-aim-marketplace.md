@@ -13,7 +13,7 @@ As this is a lengthy and somewhat technical post, here's a summary. The AIM mark
 I recently participated in my first "AIM marketplace," the Army's new-ish method for slating Army officers for new jobs. I was unprepared for how much strategy would be involved! After it closed, I wondered if I had played the game optimally. To answer this question, I simulated thousands of marketplaces to analyze the dynamics of the marketplace under different conditions. The following post explains the marketplace (both its design and actual implementation), my modeling approach, my noteworthy results, and, finally, some recommendations for improvement. All code can be found on [github](https://github.com/jschless/aim_marketplace).
 
 ## AIM Marketplace: Design
-If you're familiar with the residency match for U.S. medical students, this is supposed to be a carbon copy. Here's how its supposed to work:
+If you're familiar with the residency match for U.S. medical students, this is supposed to be a carbon copy. Here's how it's supposed to work:
 
 1. Units conduct interviews with officers. Each party uses the time before the marketplace "closes" to research opportunities and develop an ordered list of preferences. The end result for the unit is a ranking of all officers and vice versa. 
 2. Units and officers don't reveal their preferences before the market closes, except through the official signaling in the marketplace (employers and officers can both see if the other has ranked them in their top five more or less).
@@ -43,7 +43,7 @@ After going through this process and receiving pressure to commit to a job that 
 
 This dilemma made me curious about the dynamics in a marketplace and how they might be impacted by "defectors." I came up with the following research questions:
 
-- How does the emergent psuedo-Gale-Shapley algorithm compare to the actual algorithm as far as the success of the match?
+- How does the emergent pseudo-Gale-Shapley algorithm compare to the actual algorithm as far as the success of the match?
 - What happens to the rule-followers who don't seek "one-for-one" matches? Is it better to break the rules?
 
 # Modeling the Marketplace
@@ -147,7 +147,7 @@ During the market, units and officers don't know if the other is breaking the ru
 
 Consider a scenario where most units follow the rules. In this scenario, a "defecting" unit has a lot to gain. So, one by one, units will seek "one-for-ones" to secure an advantage, until everyone is doing it. At this point, there is not much advantage compared to the baseline, but there is now a big penalty for following the rules.
  
-$## Assumptions and Limitations
+## Assumptions and Limitations
 - **Simulated data v. real data.** I'm not sure the real data is better if it only includes the preferences as of market close because this is after significant tampering. If there was a snapshot of initial preferences, that would prevent the influence of informal bargaining. But yea, I simulated everything and I don't know whether the distributions I used are close to the real distributions.
 - **Officers do not self-select based on ability.** In reality, more competitive officers pursue more desirable jobs, while (self-aware) less competitive officers will pursue less desirable jobs. My modeling doesn't take into account this effect. I could take this into account, by making an officer rank units with comparable desirability high, and units that are far above or beneath his desirability low. 
 - **Preferences do not change as market develops.** In reality, officers and units adjust their preferences on who is interested and how interviews go. You get more information as the process goes along and can better decide if a place is a good fit for you. Thus, when the marketplace ends, the rankings are some combination of initial preference, gained information and what is likely to pan out. I don't take this reshuffling into account and don't believe I could meaningfully model these idiosyncratic interactions without real data. 
@@ -167,4 +167,4 @@ Finally, HRC representatives should prepare officers for the reality, rather tha
 
 
 # Appendix
-I tried pretty hard to implement some version of lying. Its not uncommon for officers to tell units they are their top choice when they aren't. Similarly, I encountered a scenario where a unit offered both me and another officer a match... we clearly can't both get the same position. I made an attempt but the results were bogus. It is generally difficult to effectively model situations with imperfect information and individual decisions. I left out my results because I have no confidence in them. Adding another random process in the mix is not particularly enlightening as there are already so many. 
+I tried pretty hard to implement some version of lying. It's not uncommon for officers to tell units they are their top choice when they aren't. Similarly, I encountered a scenario where a unit offered both me and another officer a match... we clearly can't both get the same position. I made an attempt but the results were bogus. It is generally difficult to effectively model situations with imperfect information and individual decisions. I left out my results because I have no confidence in them. Adding another random process in the mix is not particularly enlightening as there are already so many. 

@@ -100,9 +100,9 @@ Lost a House election in 1966 and didn’t concede for two days. Hmm...
 
 Carter reported a UFO sighting... Reagan did it too the following year. It turns out that Carter’s vision was explained by a barium cloud created as part of a scientific experiment. American interest in UFOs transcends generations. 202
 
-Carter was somewhat bad at kissing babies. “'Do you want to stop talking so I can give you my answer?' he snapped at a reporter. The big public smile was rarely sincere.” 234
+Carter was somewhat bad at kissing babies. "'Do you want to stop talking so I can give you my answer?' he snapped at a reporter. The big public smile was rarely sincere." 234
 
-A crazy story about Hunter S. Thompson: “Hamilton Jordan promised him an interview without telling Carter and Carter refused to give it. Thompson then went to Thompson's motel room “spread lighter fluid around the door, lit it, and smoked Jordan and his girlfriend out,” eventually getting an interview. 238
+A crazy story about Hunter S. Thompson: "Hamilton Jordan promised him an interview without telling Carter and Carter refused to give it. Thompson then went to Jordan's motel room "spread lighter fluid around the door, lit it, and smoked Jordan and his girlfriend out," eventually getting an interview. 238
 
 Carter didn’t cheat on his wife on the campaign trail, which was apparently unique for presidential campaigns. The Carters did tolerate extramarital affairs on their staff, which was described as “as hard-drinking, fornicating, pot smoking, freethinking a group as has ever been seen in higher politics.” 265
 

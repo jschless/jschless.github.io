@@ -11,12 +11,12 @@ excerpt: "Analyzing how reliably higher draft picks translate to better players 
 The NFL just had its annual draft. My team, the Chicago Bears, had the first overall pick and traded down. The Chicago Blackhawks also recently won the lottery for the first NHL draft pick with considerable excitement about potential generational talent Connor Bedard. The Chicago Bulls lottery pick fell outside of the top four and their pick thus went to the Orlando Magic. For all the excitement, how big of a difference does this all make? How reliably does having a higher draft pick translate to drafting a better player? 
 
 ## Key Findings
-My findings aren't particular surprising. Briefly: 
+My findings aren't particularly surprising. Briefly: 
 
 - Earlier picks are reliably more valuable. In the NBA, much of the value in a draft comes in the first 10 picks. In the NHL, it's mostly within the first 5 picks. The NFL is more evenly distributed across the entire first two rounds, but there is a clear premium with the first 20 picks. Value for MLB is much less biased towards the beginning of the draft, but there is still a premium with the top few picks.
 - When segmenting by position, the top pick is considerably more valuable. After the first few picks for a given position, it is less clear that any pick is more valuable than another. Certain positions (like QB) have higher premiums for the first selected.
 - Around 60-80% of the draft value is captured in the first 20% of the draft. Tom Brady picks are few and far between.
-- There is not much evidence for improvement in draft efficiency over time. The NFL shows some evidence at improvement.
+- There is not much evidence for improvement in draft efficiency over time. The NFL shows some evidence of improvement.
 
 ## Approach
 The difficult thing here is to standardize across sports. How do you measure an effective player in the NBA, MLB, NHL, and NFL? Each sport has its own "statheads", who develop increasingly convoluted statistics that communicate player value. My outcome I am choosing to study is "# of seasons where player is All-League." The All-NBA, All-Pro (NFL), and All-Star (NHL) designations are chosen not by popularity but by a poll of coaches and media experts. For MLB, because they only recently started selecting "All-League" teams, I am using "# of seasons with WAR > 4" as my metric for effective seasons. 
@@ -32,7 +32,7 @@ The difficult thing here is to standardize across sports. How do you measure an 
 There are a number of criticisms I anticipate with these metrics, which I will respond to in-line:
 
 - Different positions have different value. An average QB is going to contribute more to winning than an All-Pro offensive lineman. **I stratify by position to hopefully address this.** 
-- All-league seasons may be less important than consistency. For example, a PG who plays 15 seasons pretty well may be a better pick than a PG who has one great season and gets injured and is never the same (cough, Derrick Rose). **True, I don't have much to say about this other than your first round pick you want to be great, not just consistently good. This analysis is heavily bias towards early draft picks**
+- All-league seasons may be less important than consistency. For example, a PG who plays 15 seasons pretty well may be a better pick than a PG who has one great season and gets injured and is never the same (cough, Derrick Rose). **True, I don't have much to say about this other than your first round pick you want to be great, not just consistently good. This analysis is heavily biased towards early draft picks**
 - This metric is sparse: only a few people each year get recognized. A lot of valuable players will be zeroes and look no different from total busts. **True, but it's my assumption that with your first round pick you want to hit the jackpot. Additionally, most of my analysis relies on ordinality within a given draft year. So, as long as the better player's outcome is greater than or equal to the worse player's outcome, I think it's ok. Also, maybe I'll re-run the analysis with more continuous player value statistics.**
 
 I look at a few other metrics derived from my "outcome", such as *forgone value*. Foregone value is defined as the difference between the most valuable available pick at position $$i$$ in the draft and the actual pick
@@ -56,7 +56,7 @@ So, maybe the first overall pick in the NFL isn't that valuable. But this is an 
 
 [^1]: I am not including NBA player-level statistics because I couldn't find a draft dataset that included player position. And I didn't want to go through the trouble of scraping my own draft dataset, although I may in the future.
 
-The answer is yes. The interactive plot below shows average value share by pick for various positional groups. In general, the earlier pick, the higher average value share. This is especially true among the first 2 or 3 positional picks in the NFL and the first 2 picks among centers in the NHL. The NHL result is fairly intuitive. The most valuable position is probably center, and that's what the generational talents play. Prominent first overall center picks include Ovechkin, Crosby, Taveras, McDavid, Matthews, Stamkos, all of whom boast multiple All-Star team appearances. 
+The answer is yes. The interactive plot below shows average value share by pick for various positional groups. In general, the earlier pick, the higher average value share. This is especially true among the first 2 or 3 positional picks in the NFL and the first 2 picks among centers in the NHL. The NHL result is fairly intuitive. The most valuable position is probably center, and that's what the generational talents play. Prominent first overall center picks include Ovechkin, Crosby, Tavares, McDavid, Matthews, Stamkos, all of whom boast multiple All-Star team appearances. 
 
 The MLB is flatter than the other leagues, suggesting there is less draft efficiency; the first overall pitcher is barely more valuable on average than the second, third, or fourth. There are also less obvious returns to the first pick among NFL wider receivers and defensive backs.
 
