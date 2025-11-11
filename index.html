@@ -18,35 +18,30 @@ classes: wide
   <div class="entries-list">
     {% assign featured_posts = '' | split: '' %}
 
-    {% comment %}Add specific featured posts by filename{% endcomment %}
-    {% for post in site.books %}
-      {% if post.path contains '2025-01-03-cyropaedia-and-anabasis' %}
-        {% assign featured_posts = featured_posts | push: post %}
-      {% endif %}
-    {% endfor %}
+    {% comment %}Define featured post identifiers{% endcomment %}
+    {% assign featured_slugs = '2025-01-03-cyropaedia-and-anabasis,2025-01-25-akerlof-market-for-singles,2023-10-24-chinese-postman-problem-irl,2023-01-16-wikipeople,2024-09-22-trainTrackER,2024-05-13-aim-marketplace' | split: ',' %}
 
-    {% for post in site.essays %}
-      {% if post.path contains '2025-01-25-akerlof-market-for-singles' %}
-        {% assign featured_posts = featured_posts | push: post %}
-      {% endif %}
-    {% endfor %}
+    {% comment %}Collect all posts from all collections{% endcomment %}
+    {% assign all_posts = site.books | concat: site.essays | concat: site.projects %}
 
-    {% for post in site.projects %}
-      {% if post.path contains '2023-10-24-chinese-postman-problem-irl' %}
-        {% assign featured_posts = featured_posts | push: post %}
-      {% endif %}
-    {% endfor %}
+    {% comment %}Find matching featured posts{% endcomment %}
+    {% for post in all_posts %}
+      {% for slug in featured_slugs %}
+        {% if post.path contains slug %}
+          {% comment %}Check if post is already in featured_posts to avoid duplicates{% endcomment %}
+          {% assign already_added = false %}
+          {% for featured in featured_posts %}
+            {% if featured.path == post.path %}
+              {% assign already_added = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
 
-    {% for post in site.projects %}
-      {% if post.path contains '2023-01-16-wikipeople' %}
-        {% assign featured_posts = featured_posts | push: post %}
-      {% endif %}
-    {% endfor %}
-
-    {% for post in site.projects %}
-      {% if post.path contains '2024-09-22-trainTrackER' %}
-        {% assign featured_posts = featured_posts | push: post %}
-      {% endif %}
+          {% unless already_added %}
+            {% assign featured_posts = featured_posts | push: post %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
     {% endfor %}
 
     {% for post in featured_posts %}

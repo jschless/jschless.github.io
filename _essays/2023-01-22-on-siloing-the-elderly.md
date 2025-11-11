@@ -3,6 +3,11 @@ layout: post
 category: generalblog
 title: "On Siloing the Elderly"
 date: 2023-01-22 21:03:36 +0530
+header:
+  overlay_image: /assets/siloing-the-elderly.jpg
+  overlay_filter: 0.5
+  teaser: /assets/siloing-the-elderly.jpg
+excerpt: "From my experiences in a nursing home"
 ---
 > Dear Alex,
 >
@@ -24,6 +29,8 @@ The old people prisons (nursing homes, assisted living facilities, and hospices)
 > **Barbara's great-granddaughter:** Is this a good place for grandma? Everyone here is in a wheel chair!
 > 
 > **Barbara:** It’s *tolerable*.
+
+![Nursing Home Neglect](/assets/siloing-the-elderly.jpg)
 
 Despite the freedoms that come with a facility focused on palliative care, Barbara’s existence is lonely. The hallways are almost always empty when I visit. The residents are usually tucked away in their rooms and everything is quiet, save for the ambient noise of a person with hearing loss trying to watch Fox news. The staff is kind but overworked and companionship is beyond their job description. Visitors are rare. As a result, Barbara reluctantly spends most of the day in bed watching old Westerns or sleeping. Her eyes light up when she receives a visitor. I swear, the nonagenarian hops out of bed like Uncle Joe when Charlie gets the Golden Ticket. She is eager to go outside and breathe the fresh air or to check on her garden to see if any tomatoes have ripened. There is at once a strikingly sad solitude and the potential of a fulfilled life.
 

@@ -3,9 +3,16 @@ layout: post
 category: generalblog
 title: "Ode on an American Football: The Greatest Team Sport"
 date: 2023-02-19 21:03:36 +0530
+header:
+  overlay_image: /assets/ode-to-football.jpg
+  overlay_filter: 0.5
+  teaser: /assets/ode-to-football.jpg
+excerpt: "A discussion of the merits of American Football."
 ---
 
 Every year, around 100 million people tune into watch the Superbowl, an annual sporting event informally elevated to a national holiday. There's a reason: football (in the *American*-style) is the greatest sport and I can prove it. The dynamics of football create an extraordinary display of athleticism and strategy and a premium viewing experience.
+
+![Ode to football](/assets/ode-to-football.jpg)
 
 ## The Continuous-Physicality-Athleticism Balance
 Football has a unique combination of three primary components of team sports: continuity, physicality, and finesse. Continuity refers to the pace: is it played as a continuous flow (soccer, rugby) or is it broken up into discrete plays (football, baseball). Physicality refers to how much contact is involved, which ranges on a scale from baseball (none) to Rugby (gratuitous). Finally, athleticism refers to the kinds of skill the sport requires: is it mostly speed, strength, or finesse. Football is the only popular sport that is discrete, highly physical, and has a high range of athleticism.

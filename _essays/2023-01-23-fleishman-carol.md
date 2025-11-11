@@ -3,11 +3,18 @@ layout: post
 category: generalblog
 title: "A Fleishman Carol and its Glamour-less Defense of Marriage"
 date: 2023-01-23 21:03:36 +0530
+header:
+  overlay_image: /assets/fleishman-carol.jpg
+  overlay_filter: 0.5
+  teaser: /assets/fleishman-carol.jpg
+excerpt: "A discussions of the Ghosts of Divorce Past."
 ---
 
 I finished *Fleishman is in Trouble* weeks ago, but it has lingered in my mind, which is something I consider to be a hallmark of a worthwhile piece of art. Ross Douthat, [in a recent column,](https://www.nytimes.com/2023/01/20/opinion/fleishman-meritocracy.html?unlocked_article_code=A2hYBo9OEElBgtL2mnjjVZ1MClXj3BinaIBoWQXD4VyIw_ZH3MRxZG7bPb-9LpmUrwH7Il3xdKxAQo8vXv8LuvdokrI3oLbx_0qzv1S2xtn0pBsrHOuajXMDdbB3L5K5XcLRklIDPkRRUVA2KAuzaCmRyEEQIsVuk6kZh73l4B8D0JAT0EVZAXl962h01DPje9uaqCHJQfGKTJNC1cUZ-I-YB-KV8amgu5ffb9Wzc2wuBX43AVXdr4WCDZvEdGyf97RR4_4FaJRfDkGVye9EYQNBaeSV3gRxOVNoMrjccfQVClKXjth1ZZdRgS57q_YZq8ekZSpHX0JbRhwN6LqV&smid=share-url) describes the show primarily as a struggle to exit Daniel Markovits' *Meritocracy Trap* and cope with the challenges of a marriage teeming with meritocratic potential. I think this is a sound exegesis, but I want to offer an alternative/complementary take. While my fiancé dreaded the show because of its depressing take on marriage, I think this anti-marriage sentiment is merely surface level; upon further examination, the show is primarily reactionary and urges its viewers to get married and stay married.
 
 Again, on the surface the show seems anti-marriage. In terms of screentime, the show mostly depicts either an unhappy divorced couple or an unhappy married couple and seems to suggest that its marriage that made them unhappy. The show’s paean to marriage comes across through three couples at different stages of the marital life cycle, who I think nicely correspond to the ghosts of *A Christmas Carol*. First, there is the ghost of marriage past: a recently-divorced couple trying to move on (the Fleishmans). Second, there is the ghost of marriage future: bachelor-for-life (Seth). Finally, there is the ghost of marriage present: a suburban married couple (Libby and Ted). I Each couple’s arc comes out in favor of marriage for a different reason.
+
+![Fleishman Carol](/assets/fleishman-carol.jpg)
 
 ## The Ghost of Marriage Past
 
