@@ -5,7 +5,7 @@ permalink: /projects/
 classes: wide
 ---
 
-Coding projects, technical analysis, and programming insights.
+Simulations, data analysis, and software I built, mostly to answer questions I was curious about.
 
 <div class="entries-grid">
   {% assign sorted_projects = site.projects | sort: 'date' | reverse %}

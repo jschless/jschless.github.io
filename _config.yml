@@ -3,7 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "sunrise"
 
 # Site Settings
-title: "Meandering Dilettante"
+title: "Joe Schlessinger"
 email: joe.c.schlessinger@gmail.com
 
 url: "https://jschless.github.io"
@@ -14,7 +14,7 @@ repository: "jschless/jschless.github.io"
 author:
   name: "Joe Schlessinger"
   # avatar: "/assets/images/bio-photo.jpg" # placeholder for profile picture
-  # bio: "Professional dabbler, Mediocre thoughts and code, but it's all I've got."
+  bio: "Data projects, essays, and a running reading log."
   location: "Washington, DC"
   links:
     - label: "Email"
@@ -73,6 +73,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -81,6 +82,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # Archives
 #  Type

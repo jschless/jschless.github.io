@@ -4,3 +4,13 @@ _site/
 vendor/
 .sass-cache/
 .DS_Store
+# Local-only notes, scratch files, and old theme backups
+futureposts.txt
+screen*.png
+progress_bar.png
+presidential_progress.py
+reading_data_cache.json
+temp.log
+\#*#
+*.texture.backup*
+_includes/old_theme/

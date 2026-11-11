@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/output_15_1.png
   overlay_filter: 0.5
   teaser: /assets/output_15_1.png
+redirect_from:
+  - /projects/2019-08-11-elevator-etiquitte/
 excerpt: "Using Python simulations to determine whether selfish elevator behavior—pressing both buttons to get the first available elevator—is actually optimal for building efficiency."
 ---
 __TLDR__: I run an elevator simulation to determine optimal behavior in my apartment building when an elevator breaks. 
