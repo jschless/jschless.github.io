@@ -14,7 +14,6 @@ repository: "jschless/jschless.github.io"
 author:
   name: "Joe Schlessinger"
   # avatar: "/assets/images/bio-photo.jpg" # placeholder for profile picture
-  bio: "Data projects, essays, and a running reading log."
   location: "Washington, DC"
   links:
     - label: "Email"
