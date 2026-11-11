@@ -116,6 +116,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       read_time: true
       show_date: true
       comments: # true
@@ -128,6 +129,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
   # _books
   - scope:
       path: ""
@@ -135,6 +137,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       read_time: true
       show_date: true
       sidebar:
@@ -146,6 +149,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       read_time: true
       show_date: true
       sidebar:
@@ -157,6 +161,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       read_time: true
       show_date: true
       sidebar:
